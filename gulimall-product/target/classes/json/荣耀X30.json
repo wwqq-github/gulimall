@@ -1,0 +1,662 @@
+{
+  "baseAttrs": [
+    {
+      "attrId": 1497084806096195600,
+      "attrName": "入网型号",
+      "attrValues": "ANY-AN00",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085691807371300,
+      "attrName": "品牌",
+      "attrValues": "荣耀（HONOR）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085864323289000,
+      "attrName": "产品名称",
+      "attrValues": "荣耀X30",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086002500440000,
+      "attrName": "上市时间",
+      "attrValues": "2021年12月",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497413969399218200,
+      "attrName": "操作系统",
+      "attrValues": "Android（安卓）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086346622111700,
+      "attrName": "机身宽度",
+      "attrValues": "75.78mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086440482246700,
+      "attrName": "机身重量",
+      "attrValues": "189g",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086601900031000,
+      "attrName": "机身长度",
+      "attrValues": "166.07mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086688277532700,
+      "attrName": "机身厚度",
+      "attrValues": "8.05mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086838991458300,
+      "attrName": "机身材质",
+      "attrValues": "其他",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497087714065879000,
+      "attrName": "CPU品牌",
+      "attrValues": "高通(Qualcomm)",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497087872560238600,
+      "attrName":  "cpu型号",
+      "attrValues": "高通骁龙695",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088389361401000,
+      "attrName": "屏幕材质类型",
+      "attrValues": "LCD",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088562837819400,
+      "attrName": "主屏幕尺寸",
+      "attrValues": "6.81英寸",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088852316098600,
+      "attrName": "网络支持",
+      "attrValues": "移动5G；联通5G；电信5G",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089008943992800,
+      "attrName": "最大支持SIM卡数量",
+      "attrValues": "2",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497089256676364300,
+      "attrName": "NFC/NFC模式",
+      "attrValues": "支持",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089603264286700,
+      "attrName": "充电接口类型",
+      "attrValues": "Type-C 接口",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439413297094700,
+      "attrName": "电池容量",
+      "attrValues": "4800mAh",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439564166209500,
+      "attrName": "电池可拆卸",
+      "attrValues": "不可拆卸",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439961916252200,
+      "attrName": "充电器",
+      "attrValues": "11V/6A",
+      "showDesc": 0
+    }
+  ],
+  "bounds": {
+    "buyBounds": 1,
+    "growBounds": 1
+  },
+  "brandId": 1,
+  "catalogId": 225,
+  "decript": [
+    "https://img30.360buyimg.com/sku/jfs/t1/223705/29/777/243545/61c054e8Ed1654469/db003f92c59da2e4.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/218776/24/8324/167328/61c054eaE41af0bb3/d7e93407c9c6d8e8.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/203601/31/19117/241638/61c054ecE26c473b8/5adb785d9aab05e8.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/173227/18/24467/268454/61c054edEc6330d2a/1f485526912fc78d.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/166023/33/22436/273064/61c054efE7d642c1f/3614460f66c4c740.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/103111/17/21961/471991/61e50893E2accf0df/abe2a9293debc4c2.jpg"
+  ],
+  "images": [
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/174875/33/27036/94000/621879f3Edb9937d0/0290c4b44cc35c7f.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/120069/25/19730/106646/6130a8f0E9a18a808/cc59f7c1ac8b6d93.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190300/12/21766/59119/6130a8f0E456f7016/381bcd4340525257.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/201748/13/4448/78818/6130a8f0E0e9a0b2d/55402ecf6dcf5987.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/38699/36/15861/54202/6130a8f1Ec81bb19c/7df08f37f9e01035.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190882/40/21178/123660/6130a8f1E24d02318/d7a92fd5d878ea44.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/205861/29/4317/65481/6130a8f1Eeda1ce07/6420082c40986672.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/194176/27/21270/118033/6130a8f1E3d8a40de/14dc646511a6857c.jpg"
+  ],
+  "publishStatus": 0,
+  "skus": [
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "钛空银"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "钛空银",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 1000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/217656/25/11696/171793/61f36574E169a2c47/69195f9ffc480816.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/161647/32/26650/151098/61b95ab9Ee0360685/6a4b9112d9035438.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/175612/14/22586/131391/61b95ab8E98ef30af/804b9b63afd6901b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/219532/6/7719/72371/61b95ab8E17c06d0e/7706ce8ebce78072.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/223878/23/159/111714/61b95abbE606df37a/be9d467db38222bb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/159963/14/21655/64291/61b95ab8E8c28bf26/e5dd05aa772e6bc7.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/159963/14/21655/64291/61b95ab8E8c28bf26/e5dd05aa772e6bc7.jpg"
+        }
+
+      ,
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/216836/40/7884/64612/61b95ab8Ee2c4f5dc/8b5333a37cc6a603.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/209281/8/12683/82923/61b95abbE393943c7/ef87ea0b6fb07c53.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/167331/30/23634/43363/61b95ab7E5ac75ecb/d403348b436a824c.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price":  1699.00,
+      "priceStatus": 0,
+      "reducePrice": 100,
+      "skuName": "荣耀X30 骁龙6nm疾速5G芯 66W超级快充 120Hz全视屏 全网通版 8GB+128GB 钛空银",
+      "skuSubtitle": "【限时6期免息】66W超级快充，120HZ高刷屏，奢华外观设计！",
+      "skuTitle": "荣耀X30 骁龙6nm疾速5G芯 66W超级快充 120Hz全视屏 全网通版 8GB+128GB 钛空银"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "钛空银"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "钛空银",
+        "套餐一",
+        "8GB+256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 1000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/217656/25/11696/171793/61f36574E169a2c47/69195f9ffc480816.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/161647/32/26650/151098/61b95ab9Ee0360685/6a4b9112d9035438.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/175612/14/22586/131391/61b95ab8E98ef30af/804b9b63afd6901b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/219532/6/7719/72371/61b95ab8E17c06d0e/7706ce8ebce78072.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/223878/23/159/111714/61b95abbE606df37a/be9d467db38222bb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/159963/14/21655/64291/61b95ab8E8c28bf26/e5dd05aa772e6bc7.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/159963/14/21655/64291/61b95ab8E8c28bf26/e5dd05aa772e6bc7.jpg"
+        }
+
+      ,
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/216836/40/7884/64612/61b95ab8Ee2c4f5dc/8b5333a37cc6a603.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/209281/8/12683/82923/61b95abbE393943c7/ef87ea0b6fb07c53.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/167331/30/23634/43363/61b95ab7E5ac75ecb/d403348b436a824c.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 1999.00 ,
+      "priceStatus": 0,
+      "reducePrice": 100,
+      "skuName": "荣耀X30 骁龙6nm疾速5G芯 66W超级快充 120Hz全视屏 全网通版 8GB+256GB 钛空银",
+      "skuSubtitle": "【限时6期免息】66W超级快充，120HZ高刷屏，奢华外观设计！",
+      "skuTitle": "荣耀X30 骁龙6nm疾速5G芯 66W超级快充 120Hz全视屏 全网通版 8GB+256GB 钛空银"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "魅海蓝"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "魅海蓝",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 1000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/86183/23/20079/197869/61f367c1E1e2dc0e7/0b54002ca29fe064.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/163346/36/23287/182189/61b95f6eE61e80cf4/aaf1109198f90cd8.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/113544/16/24115/158225/61b95f6aEfa2b7dc8/fa0dcd17621d024a.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/207302/5/12492/149953/61b95f69E705f18d6/d28939fc8f66cadd.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/214774/35/7899/145396/61b95f66Efcd87e16/5f0f9925af35954e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/162169/34/27576/134993/61b95f65Ee96d5c73/9442c22c44834197.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/156521/11/27721/144051/61b95f66E17f6a619/c6cb5bbd99879a51.jpg"
+        }
+
+      ,
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/163988/21/23025/136221/61b95f6bE61577a42/2592166572688b39.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/221622/10/6038/111585/61b95f65Eebeac1e9/41cf4c2bf5223f26.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/212677/10/7812/110220/61b95f69Ee58d3a3e/9f7cdf3a5813f1ef.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 1699.00,
+      "priceStatus": 0,
+      "reducePrice": 100,
+      "skuName": "荣耀X30 骁龙6nm疾速5G芯 66W超级快充 120Hz全视屏 全网通版 8GB+128GB 魅海蓝",
+      "skuSubtitle": "【限时6期免息】66W超级快充，120HZ高刷屏，奢华外观设计！",
+      "skuTitle": "荣耀X30 骁龙6nm疾速5G芯 66W超级快充 120Hz全视屏 全网通版 8GB+128GB 魅海蓝"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "魅海蓝"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "魅海蓝",
+        "套餐一",
+        "8GB+256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 1000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/86183/23/20079/197869/61f367c1E1e2dc0e7/0b54002ca29fe064.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/163346/36/23287/182189/61b95f6eE61e80cf4/aaf1109198f90cd8.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/113544/16/24115/158225/61b95f6aEfa2b7dc8/fa0dcd17621d024a.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/207302/5/12492/149953/61b95f69E705f18d6/d28939fc8f66cadd.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/214774/35/7899/145396/61b95f66Efcd87e16/5f0f9925af35954e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/162169/34/27576/134993/61b95f65Ee96d5c73/9442c22c44834197.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/156521/11/27721/144051/61b95f66E17f6a619/c6cb5bbd99879a51.jpg"
+        }
+
+      ,
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/163988/21/23025/136221/61b95f6bE61577a42/2592166572688b39.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/221622/10/6038/111585/61b95f65Eebeac1e9/41cf4c2bf5223f26.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/212677/10/7812/110220/61b95f69Ee58d3a3e/9f7cdf3a5813f1ef.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 1999.00 ,
+      "priceStatus": 0,
+      "reducePrice": 100,
+      "skuName": "荣耀X30 骁龙6nm疾速5G芯 66W超级快充 120Hz全视屏 全网通版 8GB+256GB 魅海蓝",
+      "skuSubtitle": "【限时6期免息】66W超级快充，120HZ高刷屏，奢华外观设计！",
+      "skuTitle": "荣耀X30 骁龙6nm疾速5G芯 66W超级快充 120Hz全视屏 全网通版 8GB+256GB 魅海蓝"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "晨曦金"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "晨曦金",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 1000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/163749/30/26210/230317/61f36812E91f2d0ed/b80e399633730818.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/164124/4/21395/242831/61b96120Eb5722fa4/dd2a99388a49bced.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/198412/25/20635/109608/61b9611dE4a7ab926/8ab367c7a58868f8.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/206718/38/12811/179809/61b9611fE21bcdf0c/496edf2f95b7bedc.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/156359/29/28123/98086/61b9611dE705dcf5f/1fb185241fa8c16d.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/143875/33/23508/127546/61b9611fEbc63b34a/25d3d148084d442e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/156004/1/27640/96702/61b9611dE8dbe2a79/18e6afa64e3e1628.jpg"
+        }
+
+        ,{
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/213887/11/7868/137577/61b9611dE10c0e9f0/c33dfb887d1f2cb2.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/164163/28/22748/62989/61b96120Ed96df0cf/11685fa02e25be76.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/200611/33/20606/71860/61b9611cE9d4b5f46/f21f952b429d33f1.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 1699.00 ,
+      "priceStatus": 0,
+      "reducePrice": 100,
+      "skuName": "荣耀X30 骁龙6nm疾速5G芯 66W超级快充 120Hz全视屏 全网通版 8GB+128GB 晨曦金",
+      "skuSubtitle": "【限时6期免息】66W超级快充，120HZ高刷屏，奢华外观设计！",
+      "skuTitle": "荣耀X30 骁龙6nm疾速5G芯 66W超级快充 120Hz全视屏 全网通版 8GB+128GB 晨曦金"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "晨曦金"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "晨曦金",
+        "套餐一",
+        "8GB+256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 1000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/163749/30/26210/230317/61f36812E91f2d0ed/b80e399633730818.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/164124/4/21395/242831/61b96120Eb5722fa4/dd2a99388a49bced.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/198412/25/20635/109608/61b9611dE4a7ab926/8ab367c7a58868f8.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/206718/38/12811/179809/61b9611fE21bcdf0c/496edf2f95b7bedc.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/156359/29/28123/98086/61b9611dE705dcf5f/1fb185241fa8c16d.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/143875/33/23508/127546/61b9611fEbc63b34a/25d3d148084d442e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/156004/1/27640/96702/61b9611dE8dbe2a79/18e6afa64e3e1628.jpg"
+        }
+
+      ,{
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/213887/11/7868/137577/61b9611dE10c0e9f0/c33dfb887d1f2cb2.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/164163/28/22748/62989/61b96120Ed96df0cf/11685fa02e25be76.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/200611/33/20606/71860/61b9611cE9d4b5f46/f21f952b429d33f1.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 1999.00 ,
+      "priceStatus": 0,
+      "reducePrice": 100,
+      "skuName": "荣耀X30 骁龙6nm疾速5G芯 66W超级快充 120Hz全视屏 全网通版 8GB+256GB 晨曦金",
+      "skuSubtitle": "【限时6期免息】66W超级快充，120HZ高刷屏，奢华外观设计！",
+      "skuTitle": "荣耀X30 骁龙6nm疾速5G芯 66W超级快充 120Hz全视屏 全网通版 8GB+256GB 晨曦金"
+    }
+  ],
+  "spuDescription": "荣耀X30 骁龙6nm疾速5G芯 66W超级快充 120Hz全视屏 全网通版",
+  "spuName": "荣耀X30 骁龙6nm疾速5G芯 66W超级快充 120Hz全视屏 全网通版",
+  "weight": 0.6
+}

@@ -1,0 +1,594 @@
+{
+  "baseAttrs": [
+    {
+      "attrId": 1497084806096195600,
+      "attrName": "入网型号",
+      "attrValues": "RMX3370",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085691807371300,
+      "attrName": "品牌",
+      "attrValues": "oppo",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085864323289000,
+      "attrName": "产品名称",
+      "attrValues": "realme 真我GT Neo2",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086002500440000,
+      "attrName": "上市时间",
+      "attrValues": "2021年9月",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497413969399218200,
+      "attrName": "操作系统",
+      "attrValues": "Android（安卓）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086346622111700,
+      "attrName": "机身宽度",
+      "attrValues": "75.8mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086440482246700,
+      "attrName": "机身重量",
+      "attrValues": "199.8g",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086601900036000,
+      "attrName": "机身长度",
+      "attrValues": "162.9mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086688277532700,
+      "attrName": "机身厚度",
+      "attrValues": "8.6mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086838991458300,
+      "attrName": "机身材质",
+      "attrValues": "玻璃后盖",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497087714065879000,
+      "attrName": "CPU品牌",
+      "attrValues": "高通(Qualcomm)",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497087872560238600,
+      "attrName": "cpu型号",
+      "attrValues": "骁龙870",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088389361406000,
+      "attrName": "屏幕材质类型",
+      "attrValues": "AMOLED",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088562837819400,
+      "attrName": "主屏幕尺寸",
+      "attrValues": "6.62英寸",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088852316098600,
+      "attrName": "网络支持",
+      "attrValues": "移动5G；联通5G；电信5G",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089008943992800,
+      "attrName": "最大支持SIM卡数量",
+      "attrValues": "2",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497089256676364300,
+      "attrName": "NFC/NFC模式",
+      "attrValues": "支持",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089603264286700,
+      "attrName": "充电接口类型",
+      "attrValues": "Type-C 接口",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439413297094700,
+      "attrName": "电池容量",
+      "attrValues": "5000mAh",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439564166209500,
+      "attrName": "电池可拆卸",
+      "attrValues": "不可拆卸",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439961916252200,
+      "attrName": "充电器",
+      "attrValues": "10V/6.5A",
+      "showDesc": 0
+    }
+  ],
+  "bounds": {
+    "buyBounds": 1,
+    "growBounds": 1
+  },
+  "brandId": 4,
+  "catalogId": 225,
+  "decript": [
+    "https://img30.360buyimg.com/sku/jfs/t1/91469/3/18980/245884/614fda15E6883be53/e4fc917fda686704.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/199424/22/9921/93558/614fda0eE69b9e534/57bbfae132a90d86.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/174303/36/24128/169590/614fda12E8c8ddb69/8875b9e485b50204.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/119980/36/17572/99771/614fda0eEb60f548b/690734e9945ab00d.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/203785/22/8179/230506/614fda15E02e44317/0d8039c92265b07e.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/208784/27/2190/430493/614fda18E435dc52b/3f597357c355a4bc.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/209414/5/2236/222898/614fda14Ebb370c41/907c6780a0dc004d.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/204416/18/8157/195390/614fda13E1fa7f036/ce553350b4903829.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/210683/28/2214/114728/614fda0fE6647a998/41909233168b4fa7.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/197375/38/12696/89094/616542d8Eef6d3f36/a5b9a41fe1e53583.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/210212/12/2152/380798/614fda17Ed392b262/1cf69133cf742e3e.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/213539/7/1784/252298/61761b5eEde796ea8/023f3d79b13a8466.png",
+    "https://img30.360buyimg.com/sku/jfs/t1/92050/4/19830/52748/614fda0aE5c9aa586/038d01a4d7d0ce7d.jpg"
+  ],
+  "images": [
+    "https://img30.360buyimg.com/sku/jfs/t1/91469/3/18980/245884/614fda15E6883be53/e4fc917fda686704.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/199424/22/9921/93558/614fda0eE69b9e534/57bbfae132a90d86.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/174303/36/24128/169590/614fda12E8c8ddb69/8875b9e485b50204.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/119980/36/17572/99771/614fda0eEb60f548b/690734e9945ab00d.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/203785/22/8179/230506/614fda15E02e44317/0d8039c92265b07e.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/208784/27/2190/430493/614fda18E435dc52b/3f597357c355a4bc.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/209414/5/2236/222898/614fda14Ebb370c41/907c6780a0dc004d.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/204416/18/8157/195390/614fda13E1fa7f036/ce553350b4903829.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/210683/28/2214/114728/614fda0fE6647a998/41909233168b4fa7.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/197375/38/12696/89094/616542d8Eef6d3f36/a5b9a41fe1e53583.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/210212/12/2152/380798/614fda17Ed392b262/1cf69133cf742e3e.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/213539/7/1784/252298/61761b5eEde796ea8/023f3d79b13a8466.png",
+    "https://img30.360buyimg.com/sku/jfs/t1/92050/4/19830/52748/614fda0aE5c9aa586/038d01a4d7d0ce7d.jpg"
+  ],
+  "publishStatus": 0,
+  "skus": [
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "黑薄荷 "
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "黑薄荷",
+        "套餐一",
+        "8+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/120848/26/26845/101245/625120c4E1015a262/558a3a87f69bee3c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/202002/34/5211/78501/61517c1dEec7d56e6/60790b9937b32d2d.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/89218/1/18535/76466/614a8cf2E37681e3e/0941f31df081b636.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/103923/4/19785/42746/614a8cf1E24382d1f/abd1af15f9c2749e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/208624/34/1515/63080/614a8cf2E757af8f6/5ea7e0caedc8196f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/77281/33/17210/62919/614a8cf2Ef05bd21b/2ae6be476a5fceb5.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/207282/29/1585/38002/614a8cf2E50755325/0307c22be9de7c4f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/174157/31/21199/18322/614a8cf1E0b6d815b/5293bff40ad382d9.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 1999.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "realme 真我GT Neo2 骁龙870 120Hz旗舰屏 5000mAh大电池 65W闪充 8+128GB 黑薄荷",
+      "skuSubtitle": "【特惠100元！到手价1899元】加会员赠10元优惠券+1000店铺积分！",
+      "skuTitle": " realme 真我GT Neo2 骁龙870 120Hz旗舰屏 5000mAh大电池 65W闪充8+128GB 黑薄荷"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "黑薄荷 "
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "12GB+256GB  "
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "黑薄荷",
+        "套餐一",
+        "12GB+256GB "
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/120848/26/26845/101245/625120c4E1015a262/558a3a87f69bee3c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/202002/34/5211/78501/61517c1dEec7d56e6/60790b9937b32d2d.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/89218/1/18535/76466/614a8cf2E37681e3e/0941f31df081b636.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/103923/4/19785/42746/614a8cf1E24382d1f/abd1af15f9c2749e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/208624/34/1515/63080/614a8cf2E757af8f6/5ea7e0caedc8196f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/77281/33/17210/62919/614a8cf2Ef05bd21b/2ae6be476a5fceb5.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/207282/29/1585/38002/614a8cf2E50755325/0307c22be9de7c4f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/174157/31/21199/18322/614a8cf1E0b6d815b/5293bff40ad382d9.jpg"
+        }
+      ],
+      "price": 2299.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": " realme 真我GT Neo2 骁龙870 120Hz旗舰屏 5000mAh大电池 65W闪充12GB+256GB 黑薄荷",
+      "skuSubtitle": "【特惠100元！到手价1899元】加会员赠10元优惠券+1000店铺积分！",
+      "skuTitle": " realme 真我GT Neo2 骁龙870 120Hz旗舰屏 5000mAh大电池 65W闪充12GB+256GB 黑薄荷"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "影黑"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "影黑",
+        "套餐一",
+        "8+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/118120/18/22842/95505/6250612eE66bdd8b5/98efa8834ae9ab33.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/197794/37/10185/66611/61517e43E4f2c090f/dfca51c8cb339287.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/197964/22/9080/167050/6145622eE079947c0/68ef109d4c44291c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/107294/36/20142/94466/6145622eE4e2e541d/978c2a79283b1d53.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/209221/34/1039/80326/6145622eE1dcb925b/bed56b0dbfebfa74.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/179104/37/18510/78122/6145622eEf71852f9/c6f3f6e1e213334c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/89759/4/17628/36642/6145622dEda43ae0a/3b66e8f19999ba99.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 1999.00,
+      "priceStatus": 0,
+      "reducePrice": 100,
+      "skuName": " realme 真我GT Neo2 骁龙870 120Hz旗舰屏 5000mAh大电池 65W闪充8+128GB 影黑",
+      "skuSubtitle": "【特惠100元！到手价1899元】加会员赠10元优惠券+1000店铺积分！",
+      "skuTitle": "realme 真我GT Neo2 骁龙870 120Hz旗舰屏 5000mAh大电池 65W闪充8+128GB 影黑"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "影黑"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "12GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "影黑",
+        "套餐一",
+        "12GB+256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/118120/18/22842/95505/6250612eE66bdd8b5/98efa8834ae9ab33.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/197794/37/10185/66611/61517e43E4f2c090f/dfca51c8cb339287.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/197964/22/9080/167050/6145622eE079947c0/68ef109d4c44291c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/107294/36/20142/94466/6145622eE4e2e541d/978c2a79283b1d53.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/209221/34/1039/80326/6145622eE1dcb925b/bed56b0dbfebfa74.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/179104/37/18510/78122/6145622eEf71852f9/c6f3f6e1e213334c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/89759/4/17628/36642/6145622dEda43ae0a/3b66e8f19999ba99.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 2299.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "realme 真我GT Neo2 骁龙870 120Hz旗舰屏 5000mAh大电池 65W闪充12+256GB 影黑",
+      "skuSubtitle": "【特惠100元！到手价1899元】加会员赠10元优惠券+1000店铺积分！",
+      "skuTitle": "realme 真我GT Neo2 骁龙870 120Hz旗舰屏 5000mAh大电池 65W闪充12+256GB 影黑"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "苍蓝"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "苍蓝",
+        "套餐一",
+        "8+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/188082/16/22516/101903/6250614eE31d06565/2442063b449a3a4f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/210263/32/2457/75874/61517df9E45f1718a/648848355bfc6eb4.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/205776/7/6965/237919/614562a9E39781b65/cd291a902e4f66e4.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/162483/19/22825/95639/614562a9Ec194ac49/92afad2dc60cc325.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/109867/21/18949/85091/614562a9E24f52497/24c8181f8b12833e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/105111/5/19264/80445/614562a9Ec77d3c43/89beb020d9685899.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/169522/34/24132/42883/614562a9Ed2dc5f7d/77becbc28b3a5ece.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 1999.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "OPPO Reno6 6400万水光镜头 65W超级闪充 90Hz高感屏 36个月流畅护航 轻薄拍照 5G手机    8+128GB 苍蓝 ",
+      "skuSubtitle": "【特惠100元！到手价1899元】加会员赠10元优惠券+1000店铺积分！",
+      "skuTitle": " OPPO Reno6 6400万水光镜头 65W超级闪充 90Hz高感屏 36个月流畅护航 轻薄拍照 5G手机   8+128GB 苍蓝 "
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "苍蓝"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "12GB+256GB  "
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "苍蓝",
+        "套餐一",
+        "12GB+256GB "
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/188082/16/22516/101903/6250614eE31d06565/2442063b449a3a4f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/210263/32/2457/75874/61517df9E45f1718a/648848355bfc6eb4.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/205776/7/6965/237919/614562a9E39781b65/cd291a902e4f66e4.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/162483/19/22825/95639/614562a9Ec194ac49/92afad2dc60cc325.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/109867/21/18949/85091/614562a9E24f52497/24c8181f8b12833e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/105111/5/19264/80445/614562a9Ec77d3c43/89beb020d9685899.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/169522/34/24132/42883/614562a9Ed2dc5f7d/77becbc28b3a5ece.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 2299.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "OPPO Reno6 6400万水光镜头 65W超级闪充 90Hz高感屏 36个月流畅护航 轻薄拍照 5G手机    12+256GB 苍蓝 ",
+      "skuSubtitle": "【特惠100元！到手价1899元】加会员赠10元优惠券+1000店铺积分！",
+      "skuTitle": "OPPO Reno6 6400万水光镜头 65W超级闪充 90Hz高感屏 36个月流畅护航 轻薄拍照 5G手机    12+256GB 苍蓝 "
+    }
+  ],
+  "spuDescription": "realme 真我GT Neo2 骁龙870 120Hz旗舰屏 5000mAh大电池 65W闪充",
+  "spuName": "realme 真我GT Neo2 骁龙870 120Hz旗舰屏 5000mAh大电池 65W闪充",
+  "weight": 0.84
+}

@@ -1,0 +1,18 @@
+server:
+  port: 7000
+#  @JsonInclude(JsonInclude.Include.NON_NULL)
+spring:
+  jackson:
+    default-property-inclusion: NON_EMPTY
+  cloud:
+    nacos:
+      discovery:
+        server-addr: http://localhost:8848
+  application:
+    name: gulimall-third-party
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

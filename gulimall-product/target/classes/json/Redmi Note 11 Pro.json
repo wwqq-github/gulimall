@@ -1,0 +1,562 @@
+{
+  "baseAttrs": [
+    {
+      "attrId": 1497084806096195600,
+      "attrName": "入网型号",
+      "attrValues": "以官网信息为准",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085691807371300,
+      "attrName": "品牌",
+      "attrValues": "小米（MI）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085864323289000,
+      "attrName": "产品名称",
+      "attrValues": "Redmi Note 11 Pro",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086002500440000,
+      "attrName": "上市时间",
+      "attrValues": "2021年10月",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497413969399218200,
+      "attrName": "操作系统",
+      "attrValues": "Android（安卓）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086346622111700,
+      "attrName": "机身宽度",
+      "attrValues": "76.19mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086440482246700,
+      "attrName": "机身重量",
+      "attrValues": "207g",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086601900036000,
+      "attrName": "机身长度",
+      "attrValues": "163.65mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086688277532700,
+      "attrName": "机身厚度",
+      "attrValues": "8.34mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086838991458300,
+      "attrName": "机身材质",
+      "attrValues": "以官网信息为准",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497087714065879000,
+      "attrName": "CPU品牌",
+      "attrValues": "联发科（MTK）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497087872560238600,
+      "attrName": "cpu型号",
+      "attrValues": "天玑920",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088389361406000,
+      "attrName": "屏幕材质类型",
+      "attrValues": "AMOLED",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088562837819400,
+      "attrName": "主屏幕尺寸",
+      "attrValues": "6.67英寸",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088852316098600,
+      "attrName": "网络支持",
+      "attrValues": "移动5G；联通5G；电信5G；其他",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089008943992800,
+      "attrName": "最大支持SIM卡数量",
+      "attrValues": "2",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497089256676364300,
+      "attrName": "NFC/NFC模式",
+      "attrValues": "支持",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089603264286700,
+      "attrName": "充电接口类型",
+      "attrValues": "Type-C 接口",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439413297094700,
+      "attrName": "电池容量",
+      "attrValues": "5160mAh",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439564166209500,
+      "attrName": "电池可拆卸",
+      "attrValues": "不可拆卸",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439961916252200,
+      "attrName": "充电器",
+      "attrValues": "其他",
+      "showDesc": 0
+    }
+  ],
+  "bounds": {
+    "buyBounds": 1,
+    "growBounds": 1
+  },
+  "brandId": 3,
+  "catalogId": 225,
+  "decript": [
+    "https://img30.360buyimg.com/sku/jfs/t1/211276/40/7055/259539/617a9582Efa19722d/405fdf88a9045fe1.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/156179/16/22351/114026/617a9581E8fd02af5/d0afef2db11859b4.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/201163/21/13111/212985/617a9582Ea35bea54/c83ebc8b785b852e.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/208504/26/7250/71602/617a957fE8d6fe1d9/99de8a9a67bed048.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/206391/38/13176/112886/617a9581E5ff42b04/da6b1d8a2dee6db7.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/199296/28/14837/91756/617a957fE3e739c38/ebb41193561b5f1e.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/222888/35/373/161781/617a9582E24bd5b62/c24b446a8d3470ba.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/222202/40/386/169696/617a9582E0120e8c9/d04abfa3d863fe98.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/208212/19/7176/200075/617a9582Ecf012ccf/86b114f8281c9e51.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/213633/15/2211/136023/617a9582Ea906a72b/7c8e39e3d18b8f2f.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/206754/26/7229/140295/617a9582E638e3e7d/6bb70c58bd7d3de1.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/215007/37/2291/127495/617a9581E7163b757/4879b20b3f216e0d.jpg"
+  ],
+  "images": [
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/174875/33/27036/94000/621879f3Edb9937d0/0290c4b44cc35c7f.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/120069/25/19730/106646/6130a8f0E9a18a808/cc59f7c1ac8b6d93.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190300/12/21766/59119/6130a8f0E456f7016/381bcd4340525257.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/201748/13/4448/78818/6130a8f0E0e9a0b2d/55402ecf6dcf5987.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/38699/36/15861/54202/6130a8f1Ec81bb19c/7df08f37f9e01035.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190882/40/21178/123660/6130a8f1E24d02318/d7a92fd5d878ea44.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/205861/29/4317/65481/6130a8f1Eeda1ce07/6420082c40986672.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/194176/27/21270/118033/6130a8f1E3d8a40de/14dc646511a6857c.jpg"
+  ],
+  "publishStatus": 0,
+  "skus": [
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "迷雾森"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        " 迷雾森",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 1000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/215844/24/14579/195002/6229c6f6E98cd9787/e98046fa214ef753.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/143843/25/21094/107919/617a971eE340d3150/b93330bcae736ceb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/212051/20/2153/95668/617a971eE43fcc360/49ce2eecb7de1ba9.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/212452/30/2213/59927/617a971eE9c01aa6a/fbd5602fb9285b77.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/221923/6/402/51008/617a971eE3c33c448/7c5e1c461f70474b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/221923/6/402/51008/617a971eE3c33c448/7c5e1c461f70474b.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price":  1799.00,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "Redmi Note 11 Pro 5G 三星AMOLED高刷屏 1亿像素 67W快充 VC液冷散热 8GB+128GB 迷雾森 手机 小米 红米",
+      "skuSubtitle": "【品质好物】三星AMOLED高刷屏，1亿像素【note11pro火热抢购中】",
+      "skuTitle": "Redmi Note 11 Pro 5G 三星AMOLED高刷屏 1亿像素 67W快充 VC液冷散热 8GB+128GB 迷雾森 手机 小米 红米"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": " 迷雾森"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB  "
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        " 迷雾森",
+        "套餐一",
+        "8GB+256GB "
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 1000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/215844/24/14579/195002/6229c6f6E98cd9787/e98046fa214ef753.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/143843/25/21094/107919/617a971eE340d3150/b93330bcae736ceb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/212051/20/2153/95668/617a971eE43fcc360/49ce2eecb7de1ba9.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/212452/30/2213/59927/617a971eE9c01aa6a/fbd5602fb9285b77.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/221923/6/402/51008/617a971eE3c33c448/7c5e1c461f70474b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/221923/6/402/51008/617a971eE3c33c448/7c5e1c461f70474b.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price":  2099.00,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "Redmi Note 11 Pro 5G 三星AMOLED高刷屏 1亿像素 67W快充 VC液冷散热 8GB+256GB 迷雾森 手机 小米 红米",
+      "skuSubtitle": "【品质好物】三星AMOLED高刷屏，1亿像素【note11pro火热抢购中】",
+      "skuTitle": "Redmi Note 11 Pro 5G 三星AMOLED高刷屏 1亿像素 67W快充 VC液冷散热 8GB+256GB 迷雾森 手机 小米 红米"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "时光静紫"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "时光静紫",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 1000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/86630/27/19805/194706/6229c6d2Ef657e6f5/40217389c02358fc.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/207168/39/7171/107889/617a9698E7b63bb94/aba1e8ab965db0e9.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/162326/17/23127/95930/617a9698E630e19f8/a5849b70f7ee51a3.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/216263/25/2182/49513/617a9698Eaa0449c9/8c518f63c1f00c78.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/155836/37/22685/31512/617a9698Ee9a1b859/cf340ba97874de61.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/215705/25/2227/57994/617a9698E317bf63b/71af1a4a5dc55403.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price":  1799.00,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "Redmi Note 11 Pro 5G 三星AMOLED高刷屏 1亿像素 67W快充 VC液冷散热 8GB+128GB 时光静紫 手机 小米 红米",
+      "skuSubtitle": "【品质好物】三星AMOLED高刷屏，1亿像素【note11pro火热抢购中】",
+      "skuTitle": "Redmi Note 11 Pro 5G 三星AMOLED高刷屏 1亿像素 67W快充 VC液冷散热 8GB+128GB 时光静紫 手机 小米 红米"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "时光静紫"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "时光静紫",
+        "套餐一",
+        "8GB+256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 1000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/86630/27/19805/194706/6229c6d2Ef657e6f5/40217389c02358fc.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/207168/39/7171/107889/617a9698E7b63bb94/aba1e8ab965db0e9.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/162326/17/23127/95930/617a9698E630e19f8/a5849b70f7ee51a3.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/216263/25/2182/49513/617a9698Eaa0449c9/8c518f63c1f00c78.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/155836/37/22685/31512/617a9698Ee9a1b859/cf340ba97874de61.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/215705/25/2227/57994/617a9698E317bf63b/71af1a4a5dc55403.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price":  2099.00,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "Redmi Note 11 Pro 5G 三星AMOLED高刷屏 1亿像素 67W快充 VC液冷散热 8GB+256GB 时光静紫 手机 小米 红米",
+      "skuSubtitle": "【品质好物】三星AMOLED高刷屏，1亿像素【note11pro火热抢购中】",
+      "skuTitle": "Redmi Note 11 Pro 5G 三星AMOLED高刷屏 1亿像素 67W快充 VC液冷散热 8GB+256GB 时光静紫 手机 小米 红米"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "浅梦星河"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "浅梦星河",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 1000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/149243/17/21722/284725/6229c694Ecc2e2813/37daa10348fa405b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/217218/32/2123/141382/617a94a1E92a0b682/8550b3edad8a351d.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/156621/26/22340/118415/617a94a1E5437333c/3d46ebf7a981b7eb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/210875/18/6983/144231/617a94a1E6bb31ede/1695305846d19595.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/210875/18/6983/144231/617a94a1E6bb31ede/1695305846d19595.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/217665/10/2190/34534/617a94a0Ea341aee9/048021e34610d53f.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price":  1799.00,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "Redmi Note 11 Pro 5G 三星AMOLED高刷屏 1亿像素 67W快充 VC液冷散热 8GB+128GB 浅梦星河 手机 小米 红米",
+      "skuSubtitle": "【品质好物】三星AMOLED高刷屏，1亿像素【note11pro火热抢购中】",
+      "skuTitle": "Redmi Note 11 Pro 5G 三星AMOLED高刷屏 1亿像素 67W快充 VC液冷散热 8GB+128GB 浅梦星河 手机 小米 红米"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "浅梦星河"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "浅梦星河",
+        "套餐一",
+        "8GB+256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 1000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/149243/17/21722/284725/6229c694Ecc2e2813/37daa10348fa405b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/217218/32/2123/141382/617a94a1E92a0b682/8550b3edad8a351d.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/156621/26/22340/118415/617a94a1E5437333c/3d46ebf7a981b7eb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/210875/18/6983/144231/617a94a1E6bb31ede/1695305846d19595.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/210875/18/6983/144231/617a94a1E6bb31ede/1695305846d19595.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/217665/10/2190/34534/617a94a0Ea341aee9/048021e34610d53f.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price":  2099.00,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "Redmi Note 11 Pro 5G 三星AMOLED高刷屏 1亿像素 67W快充 VC液冷散热 8GB+256GB 浅梦星河 手机 小米 红米",
+      "skuSubtitle": "【品质好物】三星AMOLED高刷屏，1亿像素【note11pro火热抢购中】",
+      "skuTitle": "Redmi Note 11 Pro 5G 三星AMOLED高刷屏 1亿像素 67W快充 VC液冷散热 8GB+256GB 浅梦星河 手机 小米 红米"
+    }
+  ],
+  "spuDescription": "Redmi Note 11 Pro 5G 三星AMOLED高刷屏 1亿像素 67W快充 VC液冷散热",
+  "spuName": "Redmi Note 11 Pro 5G 三星AMOLED高刷屏 1亿像素 67W快充 VC液冷散热 ",
+  "weight": 0.6
+}

@@ -1,0 +1,681 @@
+{
+  "baseAttrs": [
+    {
+      "attrId": 1497084806096195600,
+      "attrName": "入网型号",
+      "attrValues": "V2134A",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085691807371300,
+      "attrName": "品牌",
+      "attrValues": "vivo",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085864323289000,
+      "attrName": "产品名称",
+      "attrValues": "vivo X70 Pro",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086002500440000,
+      "attrName": "上市时间",
+      "attrValues": "2021年9月",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497413969399218200,
+      "attrName": "操作系统",
+      "attrValues": "Android（安卓）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086346622111700,
+      "attrName": "机身宽度",
+      "attrValues": "73.21mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086440482246700,
+      "attrName": "机身重量",
+      "attrValues": "186g",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086601900036000,
+      "attrName": "机身长度",
+      "attrValues": "158.30mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086688277532700,
+      "attrName": "机身厚度",
+      "attrValues": "8.08mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086838991458300,
+      "attrName": "机身材质",
+      "attrValues": "玻璃",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497087714065879000,
+      "attrName": "CPU品牌",
+      "attrValues": "三星(Exynos)",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497087872560238600,
+      "attrName": "cpu型号",
+      "attrValues": "三星Exynos 1080",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088389361406000,
+      "attrName": "屏幕材质类型",
+      "attrValues": "AMOLED",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088562837819400,
+      "attrName": "主屏幕尺寸",
+      "attrValues": "6.56英寸",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088852316098600,
+      "attrName": "网络支持",
+      "attrValues": "移动5G；联通5G；电信5G",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089008943992800,
+      "attrName": "最大支持SIM卡数量",
+      "attrValues": "2",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497089256676364300,
+      "attrName": "NFC/NFC模式",
+      "attrValues": "不支持",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089603264286700,
+      "attrName": "充电接口类型",
+      "attrValues": "Type-C 接口",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439413297094700,
+      "attrName": "电池容量",
+      "attrValues": "4450mAh",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439564166209500,
+      "attrName": "电池可拆卸",
+      "attrValues": "不可拆卸",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439961916252200,
+      "attrName": "充电器",
+      "attrValues": "11V/4A",
+      "showDesc": 0
+    }
+  ],
+  "bounds": {
+    "buyBounds": 1,
+    "growBounds": 1
+  },
+  "brandId": 5,
+  "catalogId": 225,
+  "decript": [
+    "http://img10.360buyimg.com/imgzone/jfs/t1/38451/40/19798/85046/62175aacEf9fe7988/9af0f7733f9cf876.jpg",
+    "http://img30.360buyimg.com/sku/jfs/t1/158955/12/29007/137679/6218d234Ed8bb84d1/919a80d4c0451285.jpg",
+    "http://img10.360buyimg.com/imgzone/jfs/t1/216672/20/12638/111037/620f77feEbf14909d/0c95810ac1b163b5.jpg",
+    "http://img10.360buyimg.com/imgzone/jfs/t1/216672/20/12638/111037/620f77feEbf14909d/0c95810ac1b163b5.jpg",
+    "http://img10.360buyimg.com/imgzone/jfs/t1/199664/9/8682/546578/614498c9E872e3ad3/94a18c18a5ed6c88.gif",
+    "http://img10.360buyimg.com/imgzone/jfs/t1/83204/2/17262/455213/614c636eEec8b7e22/e0e3e2d02f059b4d.jpg",
+    "http://img10.360buyimg.com/imgzone/jfs/t1/171633/28/23961/227932/614c636eEcad9669a/cf565bf2a474dcf4.jpg",
+    "http://img10.360buyimg.com/imgzone/jfs/t1/206569/40/1979/279350/614c636eEc7aec675/86fabc393e1c41e9.jpg",
+    "http://img10.360buyimg.com/imgzone/jfs/t1/142520/22/21574/232195/614c636eEf3304e0b/b85df0eb88b25769.jpg",
+    "http://img10.360buyimg.com/imgzone/jfs/t1/119443/40/18780/314602/614c636fE6589389a/4a67d8f44262fadf.jpg",
+    "http://img10.360buyimg.com/imgzone/jfs/t1/202296/26/7884/208220/614c636fEc741bb3d/69d27499b00c3b75.jpg",
+    "http://img10.360buyimg.com/imgzone/jfs/t1/198904/22/9702/239425/614c636fEb113163f/245189f6297fd582.jpg",
+    "http://img10.360buyimg.com/imgzone/jfs/t1/203843/15/7835/168801/614c636fEe57291ee/77d16f9daa927495.jpg",
+    "http://img10.360buyimg.com/imgzone/jfs/t1/203843/15/7835/168801/614c636fEe57291ee/77d16f9daa927495.jpg",
+    "http://img10.360buyimg.com/imgzone/jfs/t1/199032/11/9769/311984/614c6370Ed1edd3f1/24ed17fc43e63f21.jpg",
+    "http://img10.360buyimg.com/imgzone/jfs/t1/88267/12/18626/369807/614c6370Ec4663143/ba851ad112e67b22.jpg",
+    "http://img10.360buyimg.com/imgzone/jfs/t1/176453/30/23910/567792/614c6370Ea1f346ed/d43c7c1aa0b314d0.jpg"
+  ],
+  "images": [
+    "https://img12.360buyimg.com/n5/s54x54_jfs/t1/145464/7/22535/82396/62135f8eEc67a3025/f6ed132a417085e3.jpg",
+    "https://img12.360buyimg.com/n5/s54x54_jfs/t1/203782/16/5835/75469/6139db11Ee0100628/9ab57c80f7ea14d7.jpg",
+    "https://img12.360buyimg.com/n5/s54x54_jfs/t1/197065/3/7707/56470/6139db11E6301c1fd/283e8b15d70aa7bb.jpg",
+    "https://img12.360buyimg.com/n5/s54x54_jfs/t1/83327/25/16756/40315/6139db11Eadefb1bc/5c8cbfb2c66524ef.jpg",
+    "https://img12.360buyimg.com/n5/s54x54_jfs/t1/202537/12/5884/62122/6139db12E66f2ce1c/b7352ba4e5c0758d.jpg",
+    "https://img12.360buyimg.com/n5/s54x54_jfs/t1/204969/36/5745/64654/6139db12E27c155b9/d3d57e80538ce6af.jpg",
+    "https://img12.360buyimg.com/n5/s54x54_jfs/t1/200058/30/7699/41652/6139db12E112a356c/08f24a3332beac48.jpg",
+    "https://img12.360buyimg.com/n5/s54x54_jfs/t1/83772/37/17501/33996/6139db12E8f70571d/9bd4d7c90d02456b.jpg"
+  ],
+  "publishStatus": 0,
+  "skus": [
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "星云"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "星云",
+        "套餐一",
+        "8GB+256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/133772/28/24280/81920/62135c4eEe6d77c44/15f598c4889d4d1f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/57230/32/17267/75469/6139c4a8E928fb80b/367909443e2d370b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/194519/19/18803/59512/611b5b1aEb367d028/3d1935d533152b11.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/197363/3/10700/110204/6155ab79E9c8e1c19/df57783044eb2021.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/201045/16/9330/107310/6155ab79Eb8a63ae3/aa3411707d121e10.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/209177/34/2954/108180/6155ab79Eeee5a5f9/038433e578753700.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/197458/8/7571/56470/6139c4a8Ea2440231/28e68eff4204d4d8.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/202784/12/5906/40315/6139c4a8E49bd6dae/783755bda298918d.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/54264/35/15318/62122/6139c4a9E6fcd03d3/c5fd40d89c7ec538.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/82671/17/16956/42385/6139c4a9Ea2f91ff1/4d793e7c31c76d7a.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/199477/12/7488/64654/6139c4a9Ef2da44c6/6b07397d15705077.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 3699.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "vivo X70 Pro 5nm旗舰芯片 专业影像芯片V1 蔡司光学镜头 120Hz高刷 3200万前置摄像 5G手机  8GB+256GB 星云",
+      "skuSubtitle": "【限时优惠价3499!尊享12期免息+赠iQOO耳机+PLUS赠无线运动耳机】120W快充，骁龙888!iQOO9Pro赛道版新品上市!",
+      "skuTitle": "vivo X70 Pro 5nm旗舰芯片 专业影像芯片V1 蔡司光学镜头 120Hz高刷 3200万前置摄像 5G手机  8GB+256GB 星云"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "星云"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "12GB+256GB  "
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "星云",
+        "套餐一",
+        "12GB+256GB "
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/133772/28/24280/81920/62135c4eEe6d77c44/15f598c4889d4d1f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/57230/32/17267/75469/6139c4a8E928fb80b/367909443e2d370b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/194519/19/18803/59512/611b5b1aEb367d028/3d1935d533152b11.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/197363/3/10700/110204/6155ab79E9c8e1c19/df57783044eb2021.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/201045/16/9330/107310/6155ab79Eb8a63ae3/aa3411707d121e10.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/209177/34/2954/108180/6155ab79Eeee5a5f9/038433e578753700.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/197458/8/7571/56470/6139c4a8Ea2440231/28e68eff4204d4d8.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/202784/12/5906/40315/6139c4a8E49bd6dae/783755bda298918d.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/54264/35/15318/62122/6139c4a9E6fcd03d3/c5fd40d89c7ec538.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/82671/17/16956/42385/6139c4a9Ea2f91ff1/4d793e7c31c76d7a.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/199477/12/7488/64654/6139c4a9Ef2da44c6/6b07397d15705077.jpg"
+        }
+      ],
+      "price": 3999.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "vivo X70 Pro 5nm旗舰芯片 专业影像芯片V1 蔡司光学镜头 120Hz高刷 3200万前置摄像 5G手机  12GB+256GB 星云",
+      "skuSubtitle": "【限时优惠价3499!尊享12期免息+赠iQOO耳机+PLUS赠无线运动耳机】120W快充，骁龙888!iQOO9Pro赛道版新品上市!",
+      "skuTitle": "vivo X70 Pro 5nm旗舰芯片 专业影像芯片V1 蔡司光学镜头 120Hz高刷 3200万前置摄像 5G手机  12GB+256GB 星云"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "至黑"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "至黑",
+        "套餐一",
+        "8GB+256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/98878/10/21811/77330/621c44abE3659ac70/8659665d62bdd386.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/206236/22/5710/67348/6139c6b1Ed615b860/723e1cba56e3fcf1.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/48438/37/17119/42500/6139c6b0E552d7515/df9c9999dfeece6b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/84579/9/17420/40033/6139c6b0E8e468e79/df0050f87c7dd7f9.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/197317/13/7735/33616/6139c6b0Ede5a3f86/1f6c47c5efec7c6f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/48031/12/17554/31899/6139c6b1E2526b989/dd364c18c2a40c87.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/67528/1/17461/36026/6139c6b1E557edf80/4992f5cf32a50e04.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/67528/1/17461/36026/6139c6b1E557edf80/4992f5cf32a50e04.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/170658/5/21270/35927/6139c6b1E7e4b7fea/d3ac51f1cf40d3dc.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/48031/12/17554/31899/6139c6b1E2526b989/dd364c18c2a40c87.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/61668/16/16852/56577/6139c6b1Eada98c54/46a82b66d22a1b91.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 3699.00,
+      "priceStatus": 0,
+      "reducePrice": 100,
+      "skuName": "vivo X70 Pro 5nm旗舰芯片 专业影像芯片V1 蔡司光学镜头 120Hz高刷 3200万前置摄像 5G手机  8GB+256GB 至黑",
+      "skuSubtitle": "【限时优惠价3499!尊享12期免息+赠iQOO耳机+PLUS赠无线运动耳机】120W快充，骁龙888!iQOO9Pro赛道版新品上市!",
+      "skuTitle": "vivo X70 Pro 5nm旗舰芯片 专业影像芯片V1 蔡司光学镜头 120Hz高刷 3200万前置摄像 5G手机  8GB+256GB 至黑"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "至黑"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "12GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "至黑",
+        "套餐一",
+        "12GB+256GB "
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/98878/10/21811/77330/621c44abE3659ac70/8659665d62bdd386.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/206236/22/5710/67348/6139c6b1Ed615b860/723e1cba56e3fcf1.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/48438/37/17119/42500/6139c6b0E552d7515/df9c9999dfeece6b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/84579/9/17420/40033/6139c6b0E8e468e79/df0050f87c7dd7f9.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/197317/13/7735/33616/6139c6b0Ede5a3f86/1f6c47c5efec7c6f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/48031/12/17554/31899/6139c6b1E2526b989/dd364c18c2a40c87.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/67528/1/17461/36026/6139c6b1E557edf80/4992f5cf32a50e04.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/67528/1/17461/36026/6139c6b1E557edf80/4992f5cf32a50e04.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/170658/5/21270/35927/6139c6b1E7e4b7fea/d3ac51f1cf40d3dc.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/48031/12/17554/31899/6139c6b1E2526b989/dd364c18c2a40c87.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/61668/16/16852/56577/6139c6b1Eada98c54/46a82b66d22a1b91.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 3999.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "vivo X70 Pro 5nm旗舰芯片 专业影像芯片V1 蔡司光学镜头 120Hz高刷 3200万前置摄像 5G手机12GB+256GB 至黑",
+      "skuSubtitle": "【限时优惠价3499!尊享12期免息+赠iQOO耳机+PLUS赠无线运动耳机】120W快充，骁龙888!iQOO9Pro赛道版新品上市!",
+      "skuTitle": "vivo X70 Pro 5nm旗舰芯片 专业影像芯片V1 蔡司光学镜头 120Hz高刷 3200万前置摄像 5G手机12GB+256GB 至黑"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "独白"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "独白",
+        "套餐一",
+        "8GB+256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/124901/4/22706/73912/621c441bEbf7eee33/19b072c2008e844e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/81040/23/16597/59736/6139c680E6ca92fd5/71fe27f3447902ab.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/200444/31/7402/30868/6139c67fE9ee659d6/c14c15129d83d173.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/200362/24/7509/40687/6139c67fE3ee774a8/2cd3712cc390dd19.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/61019/33/16745/35075/6139c67fE0fe99c73/26f0226d4c2793f1.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190882/40/21178/123660/6130a8f1E24d02318/d7a92fd5d878ea44.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/84647/7/16984/25619/6139c67fEc34a6093/d3178978e189c5e7.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/80143/2/16476/35264/6139c67fE4ba6846d/1025f6c836700a40.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/80754/17/16870/26689/6139c67fEe97b32dc/965b2475281bf0fb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/6469/3/12203/48715/6139c680E9bb36bc5/ce3a64aa6bc40160.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/57614/24/17496/53542/6139c680Ec1024ba5/d5e2dcb31ca949d5.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 3699.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "vivo X70 Pro 5nm旗舰芯片 专业影像芯片V1 蔡司光学镜头 120Hz高刷 3200万前置摄像 5G手机 8GB+256GB 独白",
+      "skuSubtitle": "【限时优惠价3499!尊享12期免息+赠iQOO耳机+PLUS赠无线运动耳机】120W快充，骁龙888!iQOO9Pro赛道版新品上市!",
+      "skuTitle": "vivo X70 Pro 5nm旗舰芯片 专业影像芯片V1 蔡司光学镜头 120Hz高刷 3200万前置摄像 5G手机 8GB+256GB 独白"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "独白"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "12GB+256GB  "
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "独白",
+        "套餐一",
+        "12GB+256GB "
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/124901/4/22706/73912/621c441bEbf7eee33/19b072c2008e844e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/81040/23/16597/59736/6139c680E6ca92fd5/71fe27f3447902ab.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/200444/31/7402/30868/6139c67fE9ee659d6/c14c15129d83d173.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/200362/24/7509/40687/6139c67fE3ee774a8/2cd3712cc390dd19.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/61019/33/16745/35075/6139c67fE0fe99c73/26f0226d4c2793f1.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190882/40/21178/123660/6130a8f1E24d02318/d7a92fd5d878ea44.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/84647/7/16984/25619/6139c67fEc34a6093/d3178978e189c5e7.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/80143/2/16476/35264/6139c67fE4ba6846d/1025f6c836700a40.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/80754/17/16870/26689/6139c67fEe97b32dc/965b2475281bf0fb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/6469/3/12203/48715/6139c680E9bb36bc5/ce3a64aa6bc40160.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/57614/24/17496/53542/6139c680Ec1024ba5/d5e2dcb31ca949d5.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 3999.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "vivo X70 Pro 5nm旗舰芯片 专业影像芯片V1 蔡司光学镜头 120Hz高刷 3200万前置摄像 5G手机12GB+256GB  独白",
+      "skuSubtitle": "【限时优惠价3499!尊享12期免息+赠iQOO耳机+PLUS赠无线运动耳机】120W快充，骁龙888!iQOO9Pro赛道版新品上市!",
+      "skuTitle": "vivo X70 Pro 5nm旗舰芯片 专业影像芯片V1 蔡司光学镜头 120Hz高刷 3200万前置摄像 5G手机12GB+256GB  独白"
+    }
+  ],
+  "spuDescription": "vivo X70 Pro 5nm旗舰芯片 专业影像芯片V1 蔡司光学镜头 120Hz高刷 3200万前置摄像 5G手机 ",
+  "spuName": "vivo X70 Pro 5nm旗舰芯片 专业影像芯片V1 蔡司光学镜头 120Hz高刷 3200万前置摄像 5G手机 ",
+  "weight": 0.84
+}

@@ -1,0 +1,652 @@
+{
+  "baseAttrs": [
+    {
+      "attrId": 1497084806096195600,
+      "attrName": "入网型号",
+      "attrValues": "02-D124-202717",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085691807371300,
+      "attrName": "品牌",
+      "attrValues": "oppo",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085864323289000,
+      "attrName": "产品名称",
+      "attrValues": "OPPO A32",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086002500440000,
+      "attrName": "上市时间",
+      "attrValues": "以官网信息为准",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497413969399218200,
+      "attrName": "操作系统",
+      "attrValues": "Android（安卓）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086346622111700,
+      "attrName": "机身宽度",
+      "attrValues": "75.1mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086440482246700,
+      "attrName": "机身重量",
+      "attrValues": "186g",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086601900036000,
+      "attrName": "机身长度",
+      "attrValues": "163.9mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086688277532700,
+      "attrName": "机身厚度",
+      "attrValues": "8.4mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086838991458300,
+      "attrName": "机身材质",
+      "attrValues": "铝合金+注塑工艺",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497087714065879000,
+      "attrName": "CPU品牌",
+      "attrValues": "高通(Qualcomm)",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497087872560238600,
+      "attrName": "cpu型号",
+      "attrValues": "高通 骁龙460",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088389361406000,
+      "attrName": "屏幕材质类型",
+      "attrValues": "其他",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088562837819400,
+      "attrName": "主屏幕尺寸",
+      "attrValues": "以官网信息为准",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088852316098600,
+      "attrName": "网络支持",
+      "attrValues": "移动5G；联通5G；电信5G",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089008943992800,
+      "attrName": "最大支持SIM卡数量",
+      "attrValues": "2",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497089256676364300,
+      "attrName": "NFC/NFC模式",
+      "attrValues": "不支持",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089603264286700,
+      "attrName": "充电接口类型",
+      "attrValues": "Type-C 接口",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439413297094700,
+      "attrName": "电池容量",
+      "attrValues": "5000mAh",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439564166209500,
+      "attrName": "电池可拆卸",
+      "attrValues": "不可拆卸",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439961916252200,
+      "attrName": "充电器",
+      "attrValues": "18W",
+      "showDesc": 0
+    }
+  ],
+  "bounds": {
+    "buyBounds": 1,
+    "growBounds": 1
+  },
+  "brandId": 4,
+  "catalogId": 225,
+  "decript": [
+    "https://img30.360buyimg.com/sku/jfs/t1/69648/1/16649/82343/62177326E6c0ff35a/587c095eccb279dc.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/69648/1/16649/82343/62177326E6c0ff35a/587c095eccb279dc.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/209575/35/14992/177489/61d69b37Ed0cac456/29091cf5f1d73fb8.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/168897/23/15767/161321/60652d42E6872fcb9/1d7488c3bbd41bc3.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/168897/23/15767/161321/60652d42E6872fcb9/1d7488c3bbd41bc3.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/117968/31/17305/378506/5f58b93dE68a5df4b/4180888a36502e57.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/117968/31/17305/378506/5f58b93dE68a5df4b/4180888a36502e57.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/121952/28/12250/238284/5f59818dEbd723914/fa91ea96a5a50ac5.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/121952/28/12250/238284/5f59818dEbd723914/fa91ea96a5a50ac5.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/146784/19/8018/292543/5f58bc7eEc5c0772f/11ad4ed702a5ba81.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/118938/20/17488/107047/5f58bc7eEa0a2a881/6964c0ac4befb3e8.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/144516/2/8103/194154/5f58b93dEe1a8cd5b/847cc8e87cd08c7e.jpg"
+  ],
+  "images": [
+    "https://img13.360buyimg.com/n5/s54x54_jfs/t1/214264/15/13518/83821/621b696cE6dc2d150/a3c314e692a81461.jpg",
+    "https://img13.360buyimg.com/n5/s54x54_jfs/t1/102024/8/20145/392168/61e0214bEe82b43a1/bec61de4d24b811d.jpg",
+    "https://img13.360buyimg.com/n5/s54x54_jfs/t1/216844/22/12044/163720/620222a3E6d8f964f/0fd06d903316b4b4.jpg",
+    "https://img13.360buyimg.com/n5/s54x54_jfs/t1/140881/2/15387/41866/5fbb306eE78d0d4b6/87e86727c33d962f.jpg",
+    "https://img13.360buyimg.com/n5/s54x54_jfs/t1/125595/9/19642/63474/5fbb306eE1e18fd80/40ba35dd74de9909.jpg",
+    "https://img13.360buyimg.com/n5/s54x54_jfs/t1/146544/30/15533/31454/5fbb306eEfcea162d/0cd299198724be8b.jpg",
+    "https://img13.360buyimg.com/n5/s54x54_jfs/t1/149105/40/15544/48553/5fbb306fE4951eb44/5f98d5c9b5f8c0bf.jpg",
+    "https://img13.360buyimg.com/n5/s54x54_jfs/t1/136084/27/16964/23621/5fbb306fE541f0f23/45db5f7dfbaa7251.jpg"
+  ],
+  "publishStatus": 0,
+  "skus": [
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "幻想蓝"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "4GB+64G"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "幻想蓝",
+        "套餐一",
+        "4GB+64G"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/214264/15/13518/83821/621b696cE6dc2d150/a3c314e692a81461.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/102024/8/20145/392168/61e0214bEe82b43a1/bec61de4d24b811d.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/216844/22/12044/163720/620222a3E6d8f964f/0fd06d903316b4b4.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/140881/2/15387/41866/5fbb306eE78d0d4b6/87e86727c33d962f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/125595/9/19642/63474/5fbb306eE1e18fd80/40ba35dd74de9909.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/146544/30/15533/31454/5fbb306eEfcea162d/0cd299198724be8b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/149105/40/15544/48553/5fbb306fE4951eb44/5f98d5c9b5f8c0bf.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/136084/27/16964/23621/5fbb306fE541f0f23/45db5f7dfbaa7251.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/121033/33/18642/74346/5fbb306fEc37fd8fc/1d484099e921752e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/152152/30/6932/70986/5fbb306fEa397924f/933d61742e5fa612.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 899.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "OPPO A32 90Hz护眼灵点屏 5000mAh超大电池 长续航 18W疾速快充 全面屏拍照视频手机  5G手机 4GB+64G 幻想蓝",
+      "skuSubtitle": "【2月28日，优惠100元+店铺会员优惠10元到手价1289元丨以旧换新至高补贴1000元】",
+      "skuTitle": "OPPO A32 90Hz护眼灵点屏 5000mAh超大电池 长续航 18W疾速快充 全面屏拍照视频手机  5G手机 4GB+64G 幻想蓝"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "幻想蓝"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB  "
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "幻想蓝",
+        "套餐一",
+        "8GB+128GB "
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/214264/15/13518/83821/621b696cE6dc2d150/a3c314e692a81461.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/102024/8/20145/392168/61e0214bEe82b43a1/bec61de4d24b811d.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/216844/22/12044/163720/620222a3E6d8f964f/0fd06d903316b4b4.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/140881/2/15387/41866/5fbb306eE78d0d4b6/87e86727c33d962f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/125595/9/19642/63474/5fbb306eE1e18fd80/40ba35dd74de9909.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/146544/30/15533/31454/5fbb306eEfcea162d/0cd299198724be8b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/149105/40/15544/48553/5fbb306fE4951eb44/5f98d5c9b5f8c0bf.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/136084/27/16964/23621/5fbb306fE541f0f23/45db5f7dfbaa7251.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/121033/33/18642/74346/5fbb306fEc37fd8fc/1d484099e921752e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/152152/30/6932/70986/5fbb306fEa397924f/933d61742e5fa612.jpg"
+        }
+      ],
+      "price": 1399.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "OPPO A32 90Hz护眼灵点屏 5000mAh超大电池 长续航 18W疾速快充 全面屏拍照视频手机  5G手机 8GB+128GB 幻想蓝",
+      "skuSubtitle": "【2月28日，优惠100元+店铺会员优惠10元到手价1289元丨以旧换新至高补贴1000元】",
+      "skuTitle": "OPPO A32 90Hz护眼灵点屏 5000mAh超大电池 长续航 18W疾速快充 全面屏拍照视频手机  5G手机 8GB+128GB 幻想蓝"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "薄荷绿"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "4GB+64G"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "薄荷绿",
+        "套餐一",
+        "4GB+64G"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/176672/22/28606/79692/621b66a0E58ab1639/2ce29035863e2ce2.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/221346/28/9170/364560/61e0214bE46aa6265/035b9d86fb962331.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/216844/22/12044/163720/620222a3E6d8f964f/0fd06d903316b4b4.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/116486/4/17243/31776/5f58c32eEd2ea0409/de5ff67b4e68a270.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/131455/12/9575/49287/5f58c32eE4e87e4e2/e28f8d3e6052e384.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/128828/36/12297/25615/5f58c32eE5250b25d/fbf6c2e64a7f534c.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/128701/3/12182/70974/5f58c32eEc8127c42/9af44038a7a628cd.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/114766/27/17550/66787/5f58c32eE5b663d2a/2de60902f746bb26.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/141776/22/8049/67883/5f58c32eE132bb522/c390bb515d956d0c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/139386/2/7996/20911/5f58c32eE6d48c9f4/a0ad1442e66850af.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 899.00,
+      "priceStatus": 0,
+      "reducePrice": 100,
+      "skuName": "OPPO A32 90Hz护眼灵点屏 5000mAh超大电池 长续航 18W疾速快充 全面屏拍照视频手机  5G手机 4GB+64G 薄荷绿",
+      "skuSubtitle": "【2月28日，优惠100元+店铺会员优惠10元到手价1289元丨以旧换新至高补贴1000元】",
+      "skuTitle": "OPPO A32 90Hz护眼灵点屏 5000mAh超大电池 长续航 18W疾速快充 全面屏拍照视频手机  5G手机 4GB+64G 薄荷绿"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "薄荷绿"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "薄荷绿",
+        "套餐一",
+        "8GB+128GB "
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/176672/22/28606/79692/621b66a0E58ab1639/2ce29035863e2ce2.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/221346/28/9170/364560/61e0214bE46aa6265/035b9d86fb962331.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/216844/22/12044/163720/620222a3E6d8f964f/0fd06d903316b4b4.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/116486/4/17243/31776/5f58c32eEd2ea0409/de5ff67b4e68a270.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/131455/12/9575/49287/5f58c32eE4e87e4e2/e28f8d3e6052e384.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/128828/36/12297/25615/5f58c32eE5250b25d/fbf6c2e64a7f534c.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/128701/3/12182/70974/5f58c32eEc8127c42/9af44038a7a628cd.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/114766/27/17550/66787/5f58c32eE5b663d2a/2de60902f746bb26.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/141776/22/8049/67883/5f58c32eE132bb522/c390bb515d956d0c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/139386/2/7996/20911/5f58c32eE6d48c9f4/a0ad1442e66850af.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 1399.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "OPPO A32 90Hz护眼灵点屏 5000mAh超大电池 长续航 18W疾速快充 全面屏拍照视频手机  5G手机 5G手机8GB+128GB 薄荷绿",
+      "skuSubtitle": "【2月28日，优惠100元+店铺会员优惠10元到手价1289元丨以旧换新至高补贴1000元】",
+      "skuTitle": "OPPO A32 90Hz护眼灵点屏 5000mAh超大电池 长续航 18W疾速快充 全面屏拍照视频手机  5G手机 5G手机8GB+128GB 薄荷绿"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "琉璃黑"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "4GB+64G"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "琉璃黑",
+        "套餐一",
+        "4GB+64G"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/208833/25/18270/80914/621b65abE01cbec4f/38de1bd080dac934.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/208591/38/15635/366729/61e0214bEd9d2ea59/72c636858cd5fc6e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/216844/22/12044/163720/620222a3E6d8f964f/0fd06d903316b4b4.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/184209/3/8096/43223/60bf0f92E2bfd28a1/167eb9fe7830a259.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/187267/20/7259/97783/60bf0f92Eb8edc767/1cf41fea7401ab31.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/112943/18/17477/48086/5f58bf9eE71324ab8/fdfb36b650eecc29.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/185489/19/8055/103649/60bf0f92E26e69e26/2b2164f1bc41febf.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/199218/18/19818/96311/61b1d271Eae7cd88b/cad957189a62143e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/122351/34/12054/65761/5f58bf9eEc7b15a42/205b4302b773f96c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/142612/18/8068/20885/5f58bf9eE1778dca6/ca9e48216df5546d.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 899.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "OPPO A32 90Hz护眼灵点屏 5000mAh超大电池 长续航 18W疾速快充 全面屏拍照视频手机4GB+64G 琉璃黑",
+      "skuSubtitle": "【2月28日，优惠100元+店铺会员优惠10元到手价1289元丨以旧换新至高补贴1000元】",
+      "skuTitle": "OPPO A32 90Hz护眼灵点屏 5000mAh超大电池 长续航 18W疾速快充 全面屏拍照视频手机4GB+64G 琉璃黑"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "琉璃黑"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB  "
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "琉璃黑",
+        "套餐一",
+        "8GB+128GB "
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/208833/25/18270/80914/621b65abE01cbec4f/38de1bd080dac934.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/208591/38/15635/366729/61e0214bEd9d2ea59/72c636858cd5fc6e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/216844/22/12044/163720/620222a3E6d8f964f/0fd06d903316b4b4.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/184209/3/8096/43223/60bf0f92E2bfd28a1/167eb9fe7830a259.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/187267/20/7259/97783/60bf0f92Eb8edc767/1cf41fea7401ab31.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/112943/18/17477/48086/5f58bf9eE71324ab8/fdfb36b650eecc29.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/185489/19/8055/103649/60bf0f92E26e69e26/2b2164f1bc41febf.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/199218/18/19818/96311/61b1d271Eae7cd88b/cad957189a62143e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/122351/34/12054/65761/5f58bf9eEc7b15a42/205b4302b773f96c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/142612/18/8068/20885/5f58bf9eE1778dca6/ca9e48216df5546d.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 1399.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "OPPO A32 90Hz护眼灵点屏 5000mAh超大电池 长续航 18W疾速快充 全面屏拍照视频手机  5G手机 5G手机8GB+128GB  琉璃黑",
+      "skuSubtitle": "【2月28日，优惠100元+店铺会员优惠10元到手价1289元丨以旧换新至高补贴1000元】",
+      "skuTitle": "OPPO A32 90Hz护眼灵点屏 5000mAh超大电池 长续航 18W疾速快充 全面屏拍照视频手机  5G手机 5G手机8GB+128GB  琉璃黑"
+    }
+  ],
+  "spuDescription": "OPPO A32 90Hz护眼灵点屏 5000mAh超大电池 长续航 18W疾速快充 全面屏拍照视频手机",
+  "spuName": "OPPO A32 90Hz护眼灵点屏 5000mAh超大电池 长续航 18W疾速快充 全面屏拍照视频手机",
+  "weight": 0.84
+}

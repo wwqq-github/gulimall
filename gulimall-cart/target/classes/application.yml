@@ -1,0 +1,28 @@
+server:
+  port: 10000
+#  @JsonInclude(JsonInclude.Include.NON_NULL)r
+spring:
+  session:
+    store-type: redis
+  redis:
+    host: 47.99.155.81
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+    cache: false
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+    default-property-inclusion: NON_EMPTY
+  cloud:
+    nacos:
+      discovery:
+        server-addr: http://localhost:8848
+  application:
+    name: gulimall-cart
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

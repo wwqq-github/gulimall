@@ -1,0 +1,593 @@
+{
+  "baseAttrs": [
+    {
+      "attrId": 1497084806096195600,
+      "attrName": "入网型号",
+      "attrValues": "V2136A",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085691807371300,
+      "attrName": "品牌",
+      "attrValues": "vivo",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085864323289000,
+      "attrName": "产品名称",
+      "attrValues": "iQOO 8",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086002500440000,
+      "attrName": "上市时间",
+      "attrValues": "2021年",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497413969399218200,
+      "attrName": "操作系统",
+      "attrValues": "Android（安卓）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086346622111700,
+      "attrName": "机身宽度",
+      "attrValues": "75.14mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086440482246700,
+      "attrName": "机身重量",
+      "attrValues": "199.9g",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086601900036000,
+      "attrName": "机身长度",
+      "attrValues": "159.06mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086688277532700,
+      "attrName": "机身厚度",
+      "attrValues": "8.63mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086838991458300,
+      "attrName": "机身材质",
+      "attrValues": "后盖采用玻璃材质",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497087714065879000,
+      "attrName": "CPU品牌",
+      "attrValues": "高通(Qualcomm)",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497087872560238600,
+      "attrName": "cpu型号",
+      "attrValues": "骁龙888",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088389361406000,
+      "attrName": "屏幕材质类型",
+      "attrValues": "AMOLED",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088562837819400,
+      "attrName": "主屏幕尺寸",
+      "attrValues": "6.56英寸",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088852316098600,
+      "attrName": "网络支持",
+      "attrValues": "移动5G；联通5G；电信5G",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089008943992800,
+      "attrName": "最大支持SIM卡数量",
+      "attrValues": "2",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497089256676364300,
+      "attrName": "NFC/NFC模式",
+      "attrValues": "不支持",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089603264286700,
+      "attrName": "充电接口类型",
+      "attrValues": "Type-C 接口",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439413297094700,
+      "attrName": "电池容量",
+      "attrValues": "4800mAh",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439564166209500,
+      "attrName": "电池可拆卸",
+      "attrValues": "不可拆卸",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439961916252200,
+      "attrName": "充电器",
+      "attrValues": "20V/6A",
+      "showDesc": 0
+    }
+  ],
+  "bounds": {
+    "buyBounds": 1,
+    "growBounds": 1
+  },
+  "brandId": 5,
+  "catalogId": 225,
+  "decript": [
+    "http://img30.360buyimg.com/sku/jfs/t1/91635/14/23049/42698/621886beEfaa0908c/26a1f031fde75db1.jpg",
+    "http://img30.360buyimg.com/sku/jfs/t1/158955/12/29007/137679/6218d234Ed8bb84d1/919a80d4c0451285.jpg",
+    "http://img10.360buyimg.com/imgzone/jfs/t1/193246/17/20394/946952/6129eefeE4622801b/fac5df0bf3b1bfb9.gif",
+    "https://img10.360buyimg.com/imgzone/jfs/t1/182231/39/21094/162691/612781f7Eea26fa47/30b52648aaa0588f.jpg",
+    "https://img10.360buyimg.com/imgzone/jfs/t1/212943/26/4470/622232/61922284Eabb27407/19f7c664667dd85b.jpg",
+    "https://img10.360buyimg.com/imgzone/jfs/t1/202625/22/2718/138803/6123a36aE5e6d2f5e/694ac21ff8f9ae71.jpg",
+    "https://img10.360buyimg.com/imgzone/jfs/t1/205012/23/2714/117842/6123a36bE95758ceb/5f1ab36dbaf19c66.jpg",
+    "https://img10.360buyimg.com/imgzone/jfs/t1/204852/22/2692/2492067/6123a36eEd6bd7391/76cf25288dc52ae6.gif",
+    "https://img10.360buyimg.com/imgzone/jfs/t1/196334/32/19638/60869/6123a36cEfc9695ef/a98c0af53fbb3d02.jpg",
+    "https://img10.360buyimg.com/imgzone/jfs/t1/199219/39/17375/152514/61922283E266266f8/19fab5deb5619a62.jpg",
+    "https://img10.360buyimg.com/imgzone/jfs/t1/200744/26/3168/149044/6123a36eE2b428b80/23cc5a8d8b951516.jpg",
+    "https://img10.360buyimg.com/imgzone/jfs/t1/181317/5/20757/2024532/6123a37bE42935000/136082e916ade16d.gif",
+    "https://img10.360buyimg.com/imgzone/jfs/t1/198280/38/4594/1948196/6123a37bE4d79370a/42f93c96219788ae.gif",
+    "https://img10.360buyimg.com/imgzone/jfs/t1/195730/36/19673/70309/6123a37bE0b3426e4/9c7b042e00ec38ad.jpg",
+    "https://img10.360buyimg.com/imgzone/jfs/t1/194888/14/19552/145806/6123a37cE20e8df77/77b690c7a9e275da.jpg",
+    "https://img10.360buyimg.com/imgzone/jfs/t1/178857/23/20557/194643/6123a37cE5cf7402a/9d978d9b61e13c65.jpg",
+    "https://img10.360buyimg.com/imgzone/jfs/t1/217930/2/4527/379451/61922284Ea8a39447/f30fe7b2f5c7bea8.jpg"
+  ],
+  "images": [
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/174875/33/27036/94000/621879f3Edb9937d0/0290c4b44cc35c7f.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/120069/25/19730/106646/6130a8f0E9a18a808/cc59f7c1ac8b6d93.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190300/12/21766/59119/6130a8f0E456f7016/381bcd4340525257.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/201748/13/4448/78818/6130a8f0E0e9a0b2d/55402ecf6dcf5987.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/38699/36/15861/54202/6130a8f1Ec81bb19c/7df08f37f9e01035.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190882/40/21178/123660/6130a8f1E24d02318/d7a92fd5d878ea44.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/205861/29/4317/65481/6130a8f1Eeda1ce07/6420082c40986672.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/194176/27/21270/118033/6130a8f1E3d8a40de/14dc646511a6857c.jpg"
+  ],
+  "publishStatus": 0,
+  "skus": [
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "传奇版"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "传奇版",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/174875/33/27036/94000/621879f3Edb9937d0/0290c4b44cc35c7f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/184311/9/19746/90952/611b5b1bE5dba91d1/a14e182a72095527.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/194519/19/18803/59512/611b5b1aEb367d028/3d1935d533152b11.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/204292/38/1776/53708/611b5b1aEb4bfc4bd/d4704767062b8fe5.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/205933/39/1632/78109/611b5b1bE2dfff4b8/cc84e14da4e6e873.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/185807/26/19652/67080/611b5b1bEb3dd25a8/26113ddabc3a5ee5.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/204414/11/1670/78055/611b5b1aEf4fb3c69/f5c032225af46691.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price":  3499.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "vivo iQOO 8  120W闪充 骁龙888 独立显示芯片 KPL官方赛事电竞手机 双模5G全网通iqoo8 8GB+128GB 传奇版",
+      "skuSubtitle": "【限时优惠价3499!尊享12期免息+赠iQOO耳机+PLUS赠无线运动耳机】120W快充，骁龙888!iQOO9Pro赛道版新品上市!",
+      "skuTitle": "vivo iQOO 8  120W闪充 骁龙888 独立显示芯片 KPL官方赛事电竞手机 双模5G全网通iqoo8 8GB+128GB 传奇版"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "传奇版"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "12GB+256GB  "
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "传奇版",
+        "套餐一",
+        "12GB+256GB "
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/174875/33/27036/94000/621879f3Edb9937d0/0290c4b44cc35c7f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/184311/9/19746/90952/611b5b1bE5dba91d1/a14e182a72095527.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/194519/19/18803/59512/611b5b1aEb367d028/3d1935d533152b11.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/204292/38/1776/53708/611b5b1aEb4bfc4bd/d4704767062b8fe5.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/205933/39/1632/78109/611b5b1bE2dfff4b8/cc84e14da4e6e873.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/185807/26/19652/67080/611b5b1bEb3dd25a8/26113ddabc3a5ee5.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/204414/11/1670/78055/611b5b1aEf4fb3c69/f5c032225af46691.jpg"
+        }
+      ],
+      "price": 3899.00 ,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "vivo iQOO 8  120W闪充 骁龙888 独立显示芯片 KPL官方赛事电竞手机 双模5G全网通iqoo8 12GB+256GB 传奇版",
+      "skuSubtitle": "【限时优惠价3499!尊享12期免息+赠iQOO耳机+PLUS赠无线运动耳机】120W快充，骁龙888!iQOO9Pro赛道版新品上市!",
+      "skuTitle": "vivo iQOO 8  120W闪充 骁龙888 独立显示芯片 KPL官方赛事电竞手机 双模5G全网通iqoo8 12GB+256GB 传奇版"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "耀"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "耀",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/165017/18/27103/100733/621879c6E45f9a56e/5971e54c83b32233.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/186589/27/18881/80627/611b5cf9Ebde1d452/006806de0bcf02db.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/197182/25/3620/59735/611b5cf9E6b75a6ef/e67a01a1a3d9f181.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/179388/19/19161/78905/611b5cf9E4ea36668/59e20da345254c4c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/199366/39/3469/66911/611b5cf9Ee42782a4/84deaa318eeb1398.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/180787/22/19687/75411/611b5cf9Ea55eec7d/c77620a4cd889113.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/202597/23/1780/75360/611b5cf9E2da445da/2ad893dfe5ff4e27.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 3499.00,
+      "priceStatus": 0,
+      "reducePrice": 100,
+      "skuName": "vivo iQOO 8  120W闪充 骁龙888 独立显示芯片 KPL官方赛事电竞手机 双模5G全网通iqoo8 8GB+128GB 耀",
+      "skuSubtitle": "【限时优惠价3499!尊享12期免息+赠iQOO耳机+PLUS赠无线运动耳机】120W快充，骁龙888!iQOO9Pro赛道版新品上市!",
+      "skuTitle": "vivo iQOO 8  120W闪充 骁龙888 独立显示芯片 KPL官方赛事电竞手机 双模5G全网通iqoo8 8GB+128GB 耀"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "耀"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "12GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "耀",
+        "套餐一",
+        "12GB+256GB "
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/165017/18/27103/100733/621879c6E45f9a56e/5971e54c83b32233.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/186589/27/18881/80627/611b5cf9Ebde1d452/006806de0bcf02db.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/197182/25/3620/59735/611b5cf9E6b75a6ef/e67a01a1a3d9f181.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/179388/19/19161/78905/611b5cf9E4ea36668/59e20da345254c4c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/199366/39/3469/66911/611b5cf9Ee42782a4/84deaa318eeb1398.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/180787/22/19687/75411/611b5cf9Ea55eec7d/c77620a4cd889113.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/202597/23/1780/75360/611b5cf9E2da445da/2ad893dfe5ff4e27.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 3899.00 ,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "vivo iQOO 8  120W闪充 骁龙888 独立显示芯片 KPL官方赛事电竞手机 双模5G全网通iqoo8 12GB+256GB 耀",
+      "skuSubtitle": "【限时优惠价3499!尊享12期免息+赠iQOO耳机+PLUS赠无线运动耳机】120W快充，骁龙888!iQOO9Pro赛道版新品上市!",
+      "skuTitle": "vivo iQOO 8  120W闪充 骁龙888 独立显示芯片 KPL官方赛事电竞手机 双模5G全网通iqoo8 12GB+256GB 耀"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "燃"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "燃",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/174875/33/27036/94000/621879f3Edb9937d0/0290c4b44cc35c7f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/120069/25/19730/106646/6130a8f0E9a18a808/cc59f7c1ac8b6d93.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190300/12/21766/59119/6130a8f0E456f7016/381bcd4340525257.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/201748/13/4448/78818/6130a8f0E0e9a0b2d/55402ecf6dcf5987.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/38699/36/15861/54202/6130a8f1Ec81bb19c/7df08f37f9e01035.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190882/40/21178/123660/6130a8f1E24d02318/d7a92fd5d878ea44.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/205861/29/4317/65481/6130a8f1Eeda1ce07/6420082c40986672.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/194176/27/21270/118033/6130a8f1E3d8a40de/14dc646511a6857c.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 3499.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "vivo iQOO 8  120W闪充 骁龙888 独立显示芯片 KPL官方赛事电竞手机 双模5G全网通iqoo8 8GB+128GB 燃",
+      "skuSubtitle": "【限时优惠价3499!尊享12期免息+赠iQOO耳机+PLUS赠无线运动耳机】120W快充，骁龙888!iQOO9Pro赛道版新品上市!",
+      "skuTitle": "vivo iQOO 8  120W闪充 骁龙888 独立显示芯片 KPL官方赛事电竞手机 双模5G全网通iqoo8 8GB+128GB 燃"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "燃"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "12GB+256GB  "
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "燃",
+        "套餐一",
+        "12GB+256GB "
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/174875/33/27036/94000/621879f3Edb9937d0/0290c4b44cc35c7f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/120069/25/19730/106646/6130a8f0E9a18a808/cc59f7c1ac8b6d93.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190300/12/21766/59119/6130a8f0E456f7016/381bcd4340525257.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/201748/13/4448/78818/6130a8f0E0e9a0b2d/55402ecf6dcf5987.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/38699/36/15861/54202/6130a8f1Ec81bb19c/7df08f37f9e01035.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190882/40/21178/123660/6130a8f1E24d02318/d7a92fd5d878ea44.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/205861/29/4317/65481/6130a8f1Eeda1ce07/6420082c40986672.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/194176/27/21270/118033/6130a8f1E3d8a40de/14dc646511a6857c.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 3899.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "vivo iQOO 8  120W闪充 骁龙888 独立显示芯片 KPL官方赛事电竞手机 双模5G全网通iqoo8 12GB+256GB 燃",
+      "skuSubtitle": "【限时优惠价3499!尊享12期免息+赠iQOO耳机+PLUS赠无线运动耳机】120W快充，骁龙888!iQOO9Pro赛道版新品上市!",
+      "skuTitle": "vivo iQOO 8  120W闪充 骁龙888 独立显示芯片 KPL官方赛事电竞手机 双模5G全网通iqoo8 12GB+256GB 燃"
+    }
+  ],
+  "spuDescription": "vivo iQOO 8  120W闪充 骁龙888 独立显示芯片 KPL官方赛事电竞手机 双模5G全网通iqoo8 ",
+  "spuName": "vivo iQOO 8  120W闪充 骁龙888 独立显示芯片 KPL官方赛事电竞手机 双模5G全网通iqoo8 ",
+  "weight": 0.72
+}

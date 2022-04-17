@@ -1,0 +1,623 @@
+{
+  "baseAttrs": [
+    {
+      "attrId": 1497084806096195600,
+      "attrName": "入网型号",
+      "attrValues": "A2644",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085691807371300,
+      "attrName": "品牌",
+      "attrValues": "Apple",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085864323289000,
+      "attrName": "产品名称",
+      "attrValues": "AppleiPhone 13 Pro Max",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086002500440000,
+      "attrName": "上市时间",
+      "attrValues": "2021年9月",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497413969399218200,
+      "attrName": "操作系统",
+      "attrValues": "iOS（苹果）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086346622111700,
+      "attrName": "机身宽度",
+      "attrValues": "78.1mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086440482246700,
+      "attrName": "机身重量",
+      "attrValues": "238g",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086601900036000,
+      "attrName": "机身长度",
+      "attrValues": "160.8mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086688277532700,
+      "attrName": "机身厚度",
+      "attrValues": "7.65mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086838991458300,
+      "attrName": "机身材质",
+      "attrValues": "以官网信息为准",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497087714065879000,
+      "attrName": "CPU品牌",
+      "attrValues": "苹果(iPhone)",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497087872560238600,
+      "attrName": "cpu型号",
+      "attrValues": "A15仿生芯片",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088389361406000,
+      "attrName": "屏幕材质类型",
+      "attrValues": "OLED",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088562837819400,
+      "attrName": "主屏幕尺寸",
+      "attrValues": "6.7英寸",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088852316098600,
+      "attrName": "网络支持",
+      "attrValues": "移动5G；联通5G；电信5G",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089008943992800,
+      "attrName": "最大支持SIM卡数量",
+      "attrValues": "2",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497089256676364300,
+      "attrName": "NFC/NFC模式",
+      "attrValues": "支持",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089603264286700,
+      "attrName": "充电接口类型",
+      "attrValues": "lightning",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439413297094700,
+      "attrName": "电池容量",
+      "attrValues": "4400mAh",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439564166209500,
+      "attrName": "电池可拆卸",
+      "attrValues": "不可拆卸",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439961916252200,
+      "attrName": "充电器",
+      "attrValues": "其他",
+      "showDesc": 0
+    }
+  ],
+  "bounds": {
+    "buyBounds": 1,
+    "growBounds": 1
+  },
+  "brandId": 1498613392179412994,
+  "catalogId": 225,
+  "decript": [
+    "https://img10.360buyimg.com/cms/jfs/t1/135244/36/18679/231850/60dab546E9015c6db/e9ebebe81dc5cb5d.jpg",
+    "https://img11.360buyimg.com/cms/jfs/t1/99174/12/25161/1368582/6227cbbcE566597f4/8102e940837cd3de.jpg",
+    "https://img11.360buyimg.com/cms/jfs/t1/211039/29/19212/922279/6227cbbcEe715133f/c08e6af76c735530.jpg"
+  ],
+  "images": [
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/174875/33/27036/94000/621879f3Edb9937d0/0290c4b44cc35c7f.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/120069/25/19730/106646/6130a8f0E9a18a808/cc59f7c1ac8b6d93.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190300/12/21766/59119/6130a8f0E456f7016/381bcd4340525257.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/201748/13/4448/78818/6130a8f0E0e9a0b2d/55402ecf6dcf5987.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/38699/36/15861/54202/6130a8f1Ec81bb19c/7df08f37f9e01035.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190882/40/21178/123660/6130a8f1E24d02318/d7a92fd5d878ea44.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/205861/29/4317/65481/6130a8f1Eeda1ce07/6420082c40986672.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/194176/27/21270/118033/6130a8f1E3d8a40de/14dc646511a6857c.jpg"
+  ],
+  "publishStatus": 0,
+  "skus": [
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "星光色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "星光色",
+        "套餐一",
+        "128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 6000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/197674/31/9698/187090/614be600E4f900dd2/f34a9d2ebc0f5d97.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/70136/30/17001/32745/6141198dE98e09417/d9046ab6709192b2.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/62194/7/17375/48959/6141198dEa07d55a0/40ed8da83104a900.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/197505/3/8623/73614/6141198dE32cc4e7a/b2afed31a1ab2ed0.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/211982/17/14387/143051/62286c9aEa8183465/0a08cb55ee8fc71e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/86557/19/22426/234510/62286c9eEc85a902f/2f8a7797e8853ded.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/144983/26/24329/200434/62286ca0Eaba2109b/48401c8c8bd6d1c9.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/95412/25/25113/138116/62286ca1E12ca2cb7/c19916e77d493727.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/148008/18/24198/61732/62286ca3E1fa53c32/b9f66fe185d6fcea.jpg"}
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price":  5999,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "Apple iPhone 13 (A2634)128GB 星光色 支持移动联通电信5G 双卡双待手机",
+      "skuSubtitle": "指定iPhone13通过以旧换新可以享受9折换新专属补贴，选购快充套装享限时优惠！",
+      "skuTitle": "Apple iPhone 13 (A2634)128GB 星光色 支持移动联通电信5G 双卡双待手机"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "星光色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "星光色",
+        "套餐一",
+        "256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 6000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/197674/31/9698/187090/614be600E4f900dd2/f34a9d2ebc0f5d97.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/70136/30/17001/32745/6141198dE98e09417/d9046ab6709192b2.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/62194/7/17375/48959/6141198dEa07d55a0/40ed8da83104a900.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/197505/3/8623/73614/6141198dE32cc4e7a/b2afed31a1ab2ed0.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/211982/17/14387/143051/62286c9aEa8183465/0a08cb55ee8fc71e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/86557/19/22426/234510/62286c9eEc85a902f/2f8a7797e8853ded.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/144983/26/24329/200434/62286ca0Eaba2109b/48401c8c8bd6d1c9.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/95412/25/25113/138116/62286ca1E12ca2cb7/c19916e77d493727.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/148008/18/24198/61732/62286ca3E1fa53c32/b9f66fe185d6fcea.jpg"}
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price":  6799.00,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "Apple iPhone 13 (A2634)256GB 星光色 支持移动联通电信5G 双卡双待手机",
+      "skuSubtitle": "指定iPhone13通过以旧换新可以享受9折换新专属补贴，选购快充套装享限时优惠！",
+      "skuTitle": "Apple iPhone 13 (A2634)256GB 星光色 支持移动联通电信5G 双卡双待手机"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "午夜色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "午夜色",
+        "套餐一",
+        "128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 6000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/106460/12/24880/106509/62286b66E8a7c90f3/6233c638c35c71fc.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/132114/7/23765/85704/62286b68Eb78325dc/5efd1696198e0f9a.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/206799/17/18793/164587/62286b6bEdf421da9/d51b729659c18879.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/134284/17/25499/243724/62286b6cE6bbee867/052905223a4f9aab.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/106915/12/23661/143051/62286b6eEcf9c57a8/1278a70310d29a6b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/96439/21/24329/233494/62286b70E5a025f59/ea2ebe179a2c282e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/210809/36/19421/189630/62286b71E5fd651de/e31e14578b54feeb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/86258/10/25296/138116/62286b73E2d80ff1f/13977b96b11bb945.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/122340/10/21800/60081/62286b75Eb91b4e80/da450fab219a9157.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 5999,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "Apple iPhone 13 (A2634)128GB 午夜色 支持移动联通电信5G 双卡双待手机",
+      "skuSubtitle": "指定iPhone13通过以旧换新可以享受9折换新专属补贴，选购快充套装享限时优惠！",
+      "skuTitle": "Apple iPhone 13 (A2634)128GB 午夜色 支持移动联通电信5G 双卡双待手机"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "午夜色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "午夜色",
+        "套餐一",
+        "256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 6000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/106460/12/24880/106509/62286b66E8a7c90f3/6233c638c35c71fc.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/132114/7/23765/85704/62286b68Eb78325dc/5efd1696198e0f9a.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/206799/17/18793/164587/62286b6bEdf421da9/d51b729659c18879.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/134284/17/25499/243724/62286b6cE6bbee867/052905223a4f9aab.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/106915/12/23661/143051/62286b6eEcf9c57a8/1278a70310d29a6b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/96439/21/24329/233494/62286b70E5a025f59/ea2ebe179a2c282e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/210809/36/19421/189630/62286b71E5fd651de/e31e14578b54feeb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/86258/10/25296/138116/62286b73E2d80ff1f/13977b96b11bb945.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/122340/10/21800/60081/62286b75Eb91b4e80/da450fab219a9157.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 6799.00,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "Apple iPhone 13 (A2634)256GB 午夜色 支持移动联通电信5G 双卡双待手机",
+      "skuSubtitle": "指定iPhone13通过以旧换新可以享受9折换新专属补贴，选购快充套装享限时优惠！",
+      "skuTitle": "Apple iPhone 13 (A2634)256GB 午夜色 支持移动联通电信5G 双卡双待手机"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "蓝色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "蓝色",
+        "套餐一",
+        "128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 6000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/216662/8/14146/130257/62286b0dE9672aa78/edb22fd36dfd0481.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/102271/16/24082/112776/62286b0fEa39a2c38/db03b7950d4c8af4.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/125019/9/25498/197263/62286b11E1a5ba88c/67b5eec051d4e4cd.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/212564/38/14210/283377/62286b13Eda28ef51/72d23a5ead3692c2.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/128389/26/25379/143051/62286b15E2d70a0ac/67b68265282add4d.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/113471/33/21316/241142/62286b17E77a42cac/32f0f965ca138a13.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/93682/2/23371/219630/62286b19E2cc79d46/432cc09e28a37eeb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/88472/3/23601/138116/62286b1aEb0563e72/77fbdf63509a120a.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/102852/5/24338/70026/62286b1cEadd94f3b/b924382ba374b5d6.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 5999,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "Apple iPhone 13 (A2634)128GB 蓝色 支持移动联通电信5G 双卡双待手机",
+      "skuSubtitle": "指定iPhone13通过以旧换新可以享受9折换新专属补贴，选购快充套装享限时优惠！",
+      "skuTitle": "Apple iPhone 13 (A2634)128GB 蓝色 支持移动联通电信5G 双卡双待手机"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "蓝色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "蓝色",
+        "套餐一",
+        "256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 6000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/216662/8/14146/130257/62286b0dE9672aa78/edb22fd36dfd0481.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/102271/16/24082/112776/62286b0fEa39a2c38/db03b7950d4c8af4.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/125019/9/25498/197263/62286b11E1a5ba88c/67b5eec051d4e4cd.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/212564/38/14210/283377/62286b13Eda28ef51/72d23a5ead3692c2.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/128389/26/25379/143051/62286b15E2d70a0ac/67b68265282add4d.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/113471/33/21316/241142/62286b17E77a42cac/32f0f965ca138a13.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/93682/2/23371/219630/62286b19E2cc79d46/432cc09e28a37eeb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/88472/3/23601/138116/62286b1aEb0563e72/77fbdf63509a120a.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/102852/5/24338/70026/62286b1cEadd94f3b/b924382ba374b5d6.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 6799.00 ,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "Apple iPhone 13 (A2634)256GB 蓝色 支持移动联通电信5G 双卡双待手机",
+      "skuSubtitle": "指定iPhone13通过以旧换新可以享受9折换新专属补贴，选购快充套装享限时优惠！",
+      "skuTitle": "Apple iPhone 13 (A2634)256GB 蓝色 支持移动联通电信5G 双卡双待手机"
+    }
+  ],
+  "spuDescription": "Apple iPhone 13 (A2634) 支持移动联通电信5G 双卡双待手机",
+  "spuName": "Apple iPhone 13 (A2634) 支持移动联通电信5G 双卡双待手机",
+  "weight": 0.6
+}

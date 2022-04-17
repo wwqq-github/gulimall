@@ -1,0 +1,599 @@
+{
+  "baseAttrs": [
+    {
+      "attrId": 1497084806096195600,
+      "attrName": "入网型号",
+      "attrValues": "PEQM00",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085691807371300,
+      "attrName": "品牌",
+      "attrValues": "oppo",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085864323289000,
+      "attrName": "产品名称",
+      "attrValues": "OPPOReno6",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086002500440000,
+      "attrName": "上市时间",
+      "attrValues": "2021年6月",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497413969399218200,
+      "attrName": "操作系统",
+      "attrValues": "Android（安卓）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086346622111700,
+      "attrName": "机身宽度",
+      "attrValues": "72.1mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086440482246700,
+      "attrName": "机身重量",
+      "attrValues": "182g",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086601900036000,
+      "attrName": "机身长度",
+      "attrValues": "156.8mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086688277532700,
+      "attrName": "机身厚度",
+      "attrValues": "7.59mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086838991458300,
+      "attrName": "机身材质",
+      "attrValues": "铝合金（6A09H铝）",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497087714065879000,
+      "attrName": "CPU品牌",
+      "attrValues": "联发科（MTK）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497087872560238600,
+      "attrName": "cpu型号",
+      "attrValues": "天机 900",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088389361406000,
+      "attrName": "屏幕材质类型",
+      "attrValues": "AMOLED",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088562837819400,
+      "attrName": "主屏幕尺寸",
+      "attrValues": "其他",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088852316098600,
+      "attrName": "网络支持",
+      "attrValues": "移动5G；联通5G；电信5G",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089008943992800,
+      "attrName": "最大支持SIM卡数量",
+      "attrValues": "2",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497089256676364300,
+      "attrName": "NFC/NFC模式",
+      "attrValues": "不支持",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089603264286700,
+      "attrName": "充电接口类型",
+      "attrValues": "Type-C 接口",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439413297094700,
+      "attrName": "电池容量",
+      "attrValues": "4300mAh",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439564166209500,
+      "attrName": "电池可拆卸",
+      "attrValues": "不可拆卸",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439961916252200,
+      "attrName": "充电器",
+      "attrValues": "11V/4A",
+      "showDesc": 0
+    }
+  ],
+  "bounds": {
+    "buyBounds": 1,
+    "growBounds": 1
+  },
+  "brandId": 4,
+  "catalogId": 225,
+  "decript": [
+    "https://img30.360buyimg.com/sku/jfs/t1/175119/3/13005/180418/60ba1a60E0420e589/653ec7b9853c945d.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/175547/4/12556/197903/60b5f50cEd38d8b37/be6dcb99498a4c18.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/136746/4/19635/175565/60b5f50cE72b7413a/6953acddf3ad6c4a.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/172818/19/12311/202421/60b5f50dE72dcf575/ac9aa8730eff7543.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/172818/19/12311/202421/60b5f50dE72dcf575/ac9aa8730eff7543.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/188530/16/5987/270796/60b5f50dE684dff57/db9f8f9c79a1eaab.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/182820/19/6872/236713/60b5f50dE35a398df/f8cd4b42e7a79bd9.jpg"
+  ],
+  "images": [
+    "https://img10.360buyimg.com/n5/s54x54_jfs/t1/73705/7/17545/97136/621b78fbE132dc2f6/92d73ed106cda372.jpg",
+    "https://img10.360buyimg.com/n5/s54x54_jfs/t1/222207/6/8796/89797/61de819eEb49586ca/1a633a8f9a731db3.jpg",
+    "https://img10.360buyimg.com/n5/s54x54_jfs/t1/222452/36/8903/73727/61de81a8E50bb1936/a0272737ba62cf86.jpg",
+    "https://img10.360buyimg.com/n5/s54x54_jfs/t1/178585/8/5008/179397/60a4b6f6E7bbaba8d/d1131c9c6842fc00.jpg",
+    "https://img10.360buyimg.com/n5/s54x54_jfs/t1/192177/26/3987/394706/60a4b6f6Eaa91157e/2ccde1b16c760a33.jpg",
+    "https://img10.360buyimg.com/n5/s54x54_jfs/t1/179084/5/4927/61289/60a4b6f6E7244e488/f395acb3ddb1d9e7.jpg",
+    "https://img10.360buyimg.com/n5/s54x54_jfs/t1/190940/5/3894/40801/60a4b6f6Ed07e485d/476d34085a9acd72.jpg",
+    "https://img10.360buyimg.com/n5/s54x54_jfs/t1/190813/18/3972/132800/60a4b6f6Ed186bd86/049b6ab5745034c4.jpg"
+  ],
+  "publishStatus": 0,
+  "skus": [
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "夏日晴海 "
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "夏日晴海",
+        "套餐一",
+        "8+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/221115/36/11720/95952/621b7578E04411eb4/ae1c544bcc52cb93.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/6378/27/13287/394893/60af5a2fE99a17177/30f55e7af2f293b6.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/210381/3/15475/73727/61de805aE1b061b6b/a0846ffe970dd216.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/196206/6/4036/179397/60a5c3f0Edf45e22a/4c7058a49476cd16.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/183073/37/5011/394706/60a5c3f0Eade1ed03/85d82294ddf2717a.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/184753/27/4982/61289/60a5c3f0E4ee605ea/002d783d65ef47df.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/189006/17/4177/40801/60a5c3f0Eb2df5ed2/7c5f79d703a9fd7a.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/187869/4/4107/132800/60a5c3f0E90a1fcf2/972777bd67fe3e31.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 2799.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": " OPPO Reno6 6400万水光镜头 65W超级闪充 90Hz高感屏 36个月流畅护航 轻薄拍照 5G手机      8+128GB 夏日晴海",
+      "skuSubtitle": "【2月28日，优惠200元+店铺会员叠加优惠10元，到手2589元起丨以旧换新至高补贴1000元】 【FindX5新品上市，立即预定】",
+      "skuTitle": " OPPO Reno6 6400万水光镜头 65W超级闪充 90Hz高感屏 36个月流畅护航 轻薄拍照 5G手机     8+128GB 夏日晴海"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "夏日晴海 "
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "12GB+256GB  "
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "夏日晴海",
+        "套餐一",
+        "12GB+256GB "
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/221115/36/11720/95952/621b7578E04411eb4/ae1c544bcc52cb93.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/6378/27/13287/394893/60af5a2fE99a17177/30f55e7af2f293b6.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/210381/3/15475/73727/61de805aE1b061b6b/a0846ffe970dd216.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/196206/6/4036/179397/60a5c3f0Edf45e22a/4c7058a49476cd16.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/183073/37/5011/394706/60a5c3f0Eade1ed03/85d82294ddf2717a.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/184753/27/4982/61289/60a5c3f0E4ee605ea/002d783d65ef47df.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/189006/17/4177/40801/60a5c3f0Eb2df5ed2/7c5f79d703a9fd7a.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/187869/4/4107/132800/60a5c3f0E90a1fcf2/972777bd67fe3e31.jpg"
+        }
+      ],
+      "price": 3199.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": " OPPO Reno6 6400万水光镜头 65W超级闪充 90Hz高感屏 36个月流畅护航 轻薄拍照 5G手机     12GB+256GB 夏日晴海",
+      "skuSubtitle": "【2月28日，优惠200元+店铺会员叠加优惠10元，到手2589元起丨以旧换新至高补贴1000元】 【FindX5新品上市，立即预定】",
+      "skuTitle": " OPPO Reno6 6400万水光镜头 65W超级闪充 90Hz高感屏 36个月流畅护航 轻薄拍照 5G手机     12GB+256GB 夏日晴海"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "星河入梦"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "星河入梦",
+        "套餐一",
+        "8+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2799,
+      "images": [
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/212179/8/13637/85345/621b75ceE37e0b769/a2f4a9cf027f2bca.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/182801/28/6113/361126/60af5a2fE4874b11d/5816737ac70d763b.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/158798/2/25313/73727/61de80c7E8d9e5740/a26101c1de8e4074.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/189490/19/4120/273757/60a5c339E544cb68d/41427c045c8e6f67.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/149440/6/19186/179095/60a5c339E55c2a4dd/be41903214facedf.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/174970/21/10426/55819/60a5c33aE0ee5e577/8135dd7a72c82693.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/183169/6/4939/37750/60a5c33aE960edc72/46ec774290f1ea14.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/176369/25/10416/194525/60a5c33aE58fe0c4f/15bf4d718acb248b.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 2799.00,
+      "priceStatus": 0,
+      "reducePrice": 100,
+      "skuName": " OPPO Reno6 6400万水光镜头 65W超级闪充 90Hz高感屏 36个月流畅护航 轻薄拍照 5G手机     8+128GB 星河入梦",
+      "skuSubtitle": "【2月28日，优惠200元+店铺会员叠加优惠10元，到手2589元起丨以旧换新至高补贴1000元】 【FindX5新品上市，立即预定】",
+      "skuTitle": "OPPO Reno6 6400万水光镜头 65W超级闪充 90Hz高感屏 36个月流畅护航 轻薄拍照 5G手机     8+128GB 星河入梦"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "星河入梦"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "12GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "星河入梦",
+        "套餐一",
+        "12GB+256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/212179/8/13637/85345/621b75ceE37e0b769/a2f4a9cf027f2bca.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/182801/28/6113/361126/60af5a2fE4874b11d/5816737ac70d763b.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/158798/2/25313/73727/61de80c7E8d9e5740/a26101c1de8e4074.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/189490/19/4120/273757/60a5c339E544cb68d/41427c045c8e6f67.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/149440/6/19186/179095/60a5c339E55c2a4dd/be41903214facedf.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/174970/21/10426/55819/60a5c33aE0ee5e577/8135dd7a72c82693.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/183169/6/4939/37750/60a5c33aE960edc72/46ec774290f1ea14.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/176369/25/10416/194525/60a5c33aE58fe0c4f/15bf4d718acb248b.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 3199.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "OPPO Reno6 6400万水光镜头 65W超级闪充 90Hz高感屏 36个月流畅护航 轻薄拍照 5G手机     12+256GB 星河入梦",
+      "skuSubtitle": "【2月28日，优惠200元+店铺会员叠加优惠10元，到手2589元起丨以旧换新至高补贴1000元】 【FindX5新品上市，立即预定】",
+      "skuTitle": "OPPO Reno6 6400万水光镜头 65W超级闪充 90Hz高感屏 36个月流畅护航 轻薄拍照 5G手机     12+256GB 星河入梦"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "月海"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "月海",
+        "套餐一",
+        "8+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/174436/23/10435/312835/60a51c25E3419e0b3/158a35afcbd06145.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/188736/21/20152/106944/6125b170E08e56e27/872c7a83b17a3f01.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/173490/38/10761/191503/60a51c24E668895e4/6532adec4c58cc0c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/188776/4/4105/175187/60a51c24Ec4cc1994/76f828e50acf9059.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/188246/7/4031/63623/60a51c25Ecfa25230/c781953e72db74bb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/177933/39/5022/39683/60a51c25E78e9dbc2/16b84f38edbf37a3.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/148135/28/19982/134558/60a51c25E2a1349db/ad3541a529c13abf.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/180151/18/4961/143380/60a51c25Eaa809b36/6236eec8a1b9d93f.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 2799.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "OPPO Reno6 6400万水光镜头 65W超级闪充 90Hz高感屏 36个月流畅护航 轻薄拍照 5G手机    8+128GB 月海 ",
+      "skuSubtitle": "【2月28日，优惠200元+店铺会员叠加优惠10元，到手2589元起丨以旧换新至高补贴1000元】 【FindX5新品上市，立即预定】",
+      "skuTitle": " OPPO Reno6 6400万水光镜头 65W超级闪充 90Hz高感屏 36个月流畅护航 轻薄拍照 5G手机   8+128GB 月海 "
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "月海"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "12GB+256GB  "
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "月海",
+        "套餐一",
+        "12GB+256GB "
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 3000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/174436/23/10435/312835/60a51c25E3419e0b3/158a35afcbd06145.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/188736/21/20152/106944/6125b170E08e56e27/872c7a83b17a3f01.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/173490/38/10761/191503/60a51c24E668895e4/6532adec4c58cc0c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/188776/4/4105/175187/60a51c24Ec4cc1994/76f828e50acf9059.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/188246/7/4031/63623/60a51c25Ecfa25230/c781953e72db74bb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/177933/39/5022/39683/60a51c25E78e9dbc2/16b84f38edbf37a3.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/148135/28/19982/134558/60a51c25E2a1349db/ad3541a529c13abf.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/180151/18/4961/143380/60a51c25Eaa809b36/6236eec8a1b9d93f.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 3199.00,
+      "priceStatus": 0,
+      "reducePrice": 300,
+      "skuName": "OPPO Reno6 6400万水光镜头 65W超级闪充 90Hz高感屏 36个月流畅护航 轻薄拍照 5G手机    12+256GB 月海 ",
+      "skuSubtitle": "【2月28日，优惠200元+店铺会员叠加优惠10元，到手2589元起丨以旧换新至高补贴1000元】 【FindX5新品上市，立即预定】",
+      "skuTitle": "OPPO Reno6 6400万水光镜头 65W超级闪充 90Hz高感屏 36个月流畅护航 轻薄拍照 5G手机    12+256GB 月海 "
+    }
+  ],
+  "spuDescription": " OPPO Reno6 6400万水光镜头 65W超级闪充 90Hz高感屏 36个月流畅护航 轻薄拍照 5G手机    ",
+  "spuName": " OPPO Reno6 6400万水光镜头 65W超级闪充 90Hz高感屏 36个月流畅护航 轻薄拍照 5G手机    ",
+  "weight": 0.84
+}

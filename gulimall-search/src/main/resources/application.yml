@@ -1,0 +1,29 @@
+server:
+  port: 8000
+#  @JsonInclude(JsonInclude.Include.NON_NULL)
+spring:
+  session:
+    store-type: redis
+  redis:
+    host: 47.99.155.81
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+    cache: false
+  jackson:
+    default-property-inclusion: NON_EMPTY
+  cloud:
+    nacos:
+      discovery:
+        server-addr: http://localhost:8848
+  application:
+    name: gulimall-search
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+
+

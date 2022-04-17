@@ -1,0 +1,642 @@
+{
+  "baseAttrs": [
+    {
+      "attrId": 1497084806096195600,
+      "attrName": "入网型号",
+      "attrValues": "NAM-AL00",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085691807371300,
+      "attrName": "品牌",
+      "attrValues": "华为（HUAWEI）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085864323289000,
+      "attrName": "产品名称",
+      "attrValues": "HUAWEI nova 9",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086002500440000,
+      "attrName": "上市时间",
+      "attrValues": "2021年9月",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497413969399218200,
+      "attrName": "操作系统",
+      "attrValues": "Harmony（鸿蒙）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086346622111700,
+      "attrName": "机身宽度",
+      "attrValues": "73.7mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086440482246700,
+      "attrName": "机身重量",
+      "attrValues": "175g",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086601900036000,
+      "attrName": "机身长度",
+      "attrValues": "160mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086688277532700,
+      "attrName": "机身厚度",
+      "attrValues": "7.77mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086838991458300,
+      "attrName": "机身材质",
+      "attrValues": "其他",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497087714065879000,
+      "attrName": "CPU品牌",
+      "attrValues": "高通(Qualcomm)",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497087872560238600,
+      "attrName":  "cpu型号",
+      "attrValues": "骁龙778G 4G",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088389361406000,
+      "attrName": "屏幕材质类型",
+      "attrValues": "OLED",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088562837819400,
+      "attrName": "主屏幕尺寸",
+      "attrValues": "6.57英寸",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088852316098600,
+      "attrName": "网络支持",
+      "attrValues": "4G FDD-LTE(联通)；4G TD-LTE(移动)；4G FDD-LTE(联通、电信)",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089008943992800,
+      "attrName": "最大支持SIM卡数量",
+      "attrValues": "2",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497089256676364300,
+      "attrName": "NFC/NFC模式",
+      "attrValues": "支持",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089603264286700,
+      "attrName": "充电接口类型",
+      "attrValues": "Type-C 接口",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439413297094700,
+      "attrName": "电池容量",
+      "attrValues": "4400mAh",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439564166209500,
+      "attrName": "电池可拆卸",
+      "attrValues": "不可拆卸",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439961916252200,
+      "attrName": "充电器",
+      "attrValues": "10V/4A；4.5V/5A；11V/6A；5V/2A；10V/2.25A；5V/4.5A；9V/2A",
+      "showDesc": 0
+    }
+  ],
+  "bounds": {
+    "buyBounds": 1,
+    "growBounds": 1
+  },
+  "brandId": 2,
+  "catalogId": 225,
+  "decript": [
+    "https://img30.360buyimg.com/sku/jfs/t1/204441/39/7785/146630/614c5acaE31985ac2/e26fbcb096dc9a31.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/201915/21/9083/210595/61556312E933137b0/9c12b7d892d24c55.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/198480/33/9590/172169/614c5ae9Ed7012fe6/e0e7f11fb7dde457.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/198283/33/9693/168453/614c5ae9E8aff80e2/b8dba1090c0318e6.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/146891/31/20164/138106/614c5ae9E52f3af11/7ac73c5d6e78768d.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/198766/28/9650/146268/614c5ae9E1bf00d29/127d9c3e472bb62b.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/198766/28/9650/146268/614c5ae9E1bf00d29/127d9c3e472bb62b.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/209892/30/1746/188697/614c5ae9E99407bbc/8f99b24ca8b8c753.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/198887/23/9563/200883/614c5ae9E2a5f1f6d/57dfe9de63765128.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/199120/32/9667/187806/614c5ae9Ebdfa2b97/dc1b57c4d24529af.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/93436/37/18630/194890/614c5ae9E04aab4d6/58276618a74bb067.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/201681/15/7829/165558/614c5ae9E52d968b7/fe2c367c4798ad51.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/201681/15/7829/165558/614c5ae9E52d968b7/fe2c367c4798ad51.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/163764/12/23529/189897/614c5ae9Ee93011ad/30f69290f994f35a.jpg"
+  ],
+  "images": [
+    "https://img30.360buyimg.com/sku/jfs/t1/204441/39/7785/146630/614c5acaE31985ac2/e26fbcb096dc9a31.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/201915/21/9083/210595/61556312E933137b0/9c12b7d892d24c55.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/198480/33/9590/172169/614c5ae9Ed7012fe6/e0e7f11fb7dde457.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/198283/33/9693/168453/614c5ae9E8aff80e2/b8dba1090c0318e6.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/146891/31/20164/138106/614c5ae9E52f3af11/7ac73c5d6e78768d.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/198766/28/9650/146268/614c5ae9E1bf00d29/127d9c3e472bb62b.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/198766/28/9650/146268/614c5ae9E1bf00d29/127d9c3e472bb62b.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/209892/30/1746/188697/614c5ae9E99407bbc/8f99b24ca8b8c753.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/198887/23/9563/200883/614c5ae9E2a5f1f6d/57dfe9de63765128.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/199120/32/9667/187806/614c5ae9Ebdfa2b97/dc1b57c4d24529af.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/93436/37/18630/194890/614c5ae9E04aab4d6/58276618a74bb067.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/201681/15/7829/165558/614c5ae9E52d968b7/fe2c367c4798ad51.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/201681/15/7829/165558/614c5ae9E52d968b7/fe2c367c4798ad51.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/163764/12/23529/189897/614c5ae9Ee93011ad/30f69290f994f35a.jpg"
+  ],
+  "publishStatus": 0,
+  "skus": [
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "普罗旺斯"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "普罗旺斯",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/208795/33/5394/189188/61697126Ef35c9553/4ab32637f25bb916.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/206740/15/1866/86925/614b2f10Ef1b1ac6f/05123cf65f3f993e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/200849/31/8376/185144/614c7342E2db428d8/75f0ccd076fc737e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/110298/33/17463/204430/614c7342Ef1d72e99/d4e31204f1b0c143.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/111296/17/15508/294565/614c7342E0cb07267/ff0fc02c39416fc6.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/209436/18/1820/228990/614c7342Eb3f42cdb/5888e236141162b3.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/198980/13/12317/226545/61613609E00c1aea5/70f322d170220d98.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/202280/40/7761/46581/614b2f10Ec1c78458/bcc1c8082d17df47.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/109796/37/16073/46429/614b2f11E7e95cdf6/2af0accd19227a37.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price":  2599.00,
+      "priceStatus": 0,
+      "reducePrice": 200,
+      "skuName": "HUAWEI nova 9 120Hz高刷 后置5000万超感知影像 搭载HarmonyOS 2  8GB+128GB普罗旺斯华为手机【搭载HarmonyOS 2】",
+      "skuSubtitle": "【华为Mate40Pro】麒麟9000旗舰芯片,搭载HarmonyOS2,超感知徕卡电影影像,欢迎抢购；华为手机热销爆款，限量抢购，",
+      "skuTitle": "HUAWEI nova 9 120Hz高刷 后置5000万超感知影像 搭载HarmonyOS 2  8GB+128GB普罗旺斯华为手机【搭载HarmonyOS 2】"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "普罗旺斯"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB  "
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "普罗旺斯",
+        "套餐一",
+        "8GB+256GB "
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/208795/33/5394/189188/61697126Ef35c9553/4ab32637f25bb916.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/206740/15/1866/86925/614b2f10Ef1b1ac6f/05123cf65f3f993e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/200849/31/8376/185144/614c7342E2db428d8/75f0ccd076fc737e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/110298/33/17463/204430/614c7342Ef1d72e99/d4e31204f1b0c143.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/111296/17/15508/294565/614c7342E0cb07267/ff0fc02c39416fc6.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/209436/18/1820/228990/614c7342Eb3f42cdb/5888e236141162b3.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/198980/13/12317/226545/61613609E00c1aea5/70f322d170220d98.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/202280/40/7761/46581/614b2f10Ec1c78458/bcc1c8082d17df47.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/109796/37/16073/46429/614b2f11E7e95cdf6/2af0accd19227a37.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 2899.00,
+      "priceStatus": 0,
+      "reducePrice": 200,
+      "skuName": "HUAWEI nova 9 120Hz高刷 后置5000万超感知影像 搭载HarmonyOS 2  8GB+256GB普罗旺斯华为手机【搭载HarmonyOS 2】",
+      "skuSubtitle": "【华为Mate40Pro】麒麟9000旗舰芯片,搭载HarmonyOS2,超感知徕卡电影影像,欢迎抢购；华为手机热销爆款，限量抢购，",
+      "skuTitle": "HUAWEI nova 9 120Hz高刷 后置5000万超感知影像 搭载HarmonyOS 2  8GB+256GB普罗旺斯华为手机【搭载HarmonyOS 2】"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "绮境森林"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "绮境森林",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2000,
+      "images": [
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/210710/37/1702/106234/614b371eEf62ae601/217b5e69896daacb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/201562/21/11681/214106/61697000E3f03d5b5/03866b116bc2dacb.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/208996/30/1793/294565/614c769dEfc5d4a45/0b6933f9ade8ddc3.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/208892/30/1778/204430/614c769dE8a645e73/e293ad3ebcf4ba3a.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/93199/14/18154/228990/614c769dE230c7ff0/cd2714a7b66e2d96.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/118536/27/24039/185144/614c769dE19106aa3/6a5fe25fc36d50d2.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/198980/13/12317/226545/61613609E00c1aea5/70f322d170220d98.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/209504/26/1668/46313/614b371eE371a2e6c/ee00bb679cede813.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/142975/10/21780/61083/614b371eE0cecf21e/4b9e84e2fc1dd116.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 2599.00,
+      "priceStatus": 0,
+      "reducePrice": 200,
+      "skuName": "HUAWEI nova 9 120Hz高刷 后置5000万超感知影像 搭载HarmonyOS 2  8GB+128GB绮境森林华为手机【搭载HarmonyOS 2】",
+      "skuSubtitle": "【华为Mate40Pro】麒麟9000旗舰芯片,搭载HarmonyOS2,超感知徕卡电影影像,欢迎抢购；华为手机热销爆款，限量抢购，",
+      "skuTitle": "HUAWEI nova 9 120Hz高刷 后置5000万超感知影像 搭载HarmonyOS 2  8GB+128GB绮境森林华为手机【搭载HarmonyOS 2】"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "绮境森林"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "绮境森林",
+        "套餐一",
+        "8GB+256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2000,
+      "images": [
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/210710/37/1702/106234/614b371eEf62ae601/217b5e69896daacb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/201562/21/11681/214106/61697000E3f03d5b5/03866b116bc2dacb.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/208996/30/1793/294565/614c769dEfc5d4a45/0b6933f9ade8ddc3.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/208892/30/1778/204430/614c769dE8a645e73/e293ad3ebcf4ba3a.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/93199/14/18154/228990/614c769dE230c7ff0/cd2714a7b66e2d96.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/118536/27/24039/185144/614c769dE19106aa3/6a5fe25fc36d50d2.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/198980/13/12317/226545/61613609E00c1aea5/70f322d170220d98.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/209504/26/1668/46313/614b371eE371a2e6c/ee00bb679cede813.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/142975/10/21780/61083/614b371eE0cecf21e/4b9e84e2fc1dd116.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 2899.00,
+      "priceStatus": 0,
+      "reducePrice": 200,
+      "skuName": "HUAWEI nova 9 120Hz高刷 后置5000万超感知影像 搭载HarmonyOS 2  8GB+256GB绮境森林华为手机【搭载HarmonyOS 2】",
+      "skuSubtitle": "【华为Mate40Pro】麒麟9000旗舰芯片,搭载HarmonyOS2,超感知徕卡电影影像,欢迎抢购；华为手机热销爆款，限量抢购，",
+      "skuTitle": "HUAWEI nova 9 120Hz高刷 后置5000万超感知影像 搭载HarmonyOS 2  8GB+256GB绮境森林华为手机【搭载HarmonyOS 2】"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "9号色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "9号色",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2000,
+      "images": [
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/217881/1/506/212370/61696fa6E395b47c1/03caa03b696cde49.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/202537/19/7680/98153/614b350cE130c72de/84ad5f03905a423e.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/206888/16/1812/185144/614c7515Ec493e95c/bfb952fdb62b5abc.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/210387/9/1776/204430/614c7515E41a0760d/39d21cea1f196d62.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/197511/1/9766/294565/614c7515E63c5b0fc/2004c00e6b6d7b3b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/163307/37/22040/228990/614c7515E4d58549c/027a4e0709227155.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/198980/13/12317/226545/61613609E00c1aea5/70f322d170220d98.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/201150/10/7997/46372/614b350cEa0e38e29/32820028bfcaf9dd.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/201513/2/8096/46986/614b350cEc4e81e78/081db3974afee049.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 2599.00,
+      "priceStatus": 0,
+      "reducePrice": 200,
+      "skuName": "HUAWEI nova 9 120Hz高刷 后置5000万超感知影像 搭载HarmonyOS 2  8GB+128GB9号色华为手机【搭载HarmonyOS 2】",
+      "skuSubtitle": "【华为Mate40Pro】麒麟9000旗舰芯片,搭载HarmonyOS2,超感知徕卡电影影像,欢迎抢购；华为手机热销爆款，限量抢购，",
+      "skuTitle": "HUAWEI nova 9 120Hz高刷 后置5000万超感知影像 搭载HarmonyOS 2  8GB+128GB9号色华为手机【搭载HarmonyOS 2】"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "9号色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "9号色",
+        "套餐一",
+        "8GB+256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2000,
+      "images": [
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/217881/1/506/212370/61696fa6E395b47c1/03caa03b696cde49.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/202537/19/7680/98153/614b350cE130c72de/84ad5f03905a423e.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/206888/16/1812/185144/614c7515Ec493e95c/bfb952fdb62b5abc.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/210387/9/1776/204430/614c7515E41a0760d/39d21cea1f196d62.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/197511/1/9766/294565/614c7515E63c5b0fc/2004c00e6b6d7b3b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/163307/37/22040/228990/614c7515E4d58549c/027a4e0709227155.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/198980/13/12317/226545/61613609E00c1aea5/70f322d170220d98.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/201150/10/7997/46372/614b350cEa0e38e29/32820028bfcaf9dd.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/201513/2/8096/46986/614b350cEc4e81e78/081db3974afee049.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 2899.00,
+      "priceStatus": 0,
+      "reducePrice": 200,
+      "skuName": "HUAWEI nova 9 120Hz高刷 后置5000万超感知影像 搭载HarmonyOS 2  8GB+256GB9号色华为手机【搭载HarmonyOS 2】",
+      "skuSubtitle": "【华为Mate40Pro】麒麟9000旗舰芯片,搭载HarmonyOS2,超感知徕卡电影影像,欢迎抢购；华为手机热销爆款，限量抢购，",
+      "skuTitle": "HUAWEI nova 9 120Hz高刷 后置5000万超感知影像 搭载HarmonyOS 2  8GB+256GB9号色华为手机【搭载HarmonyOS 2】"
+    }
+  ],
+  "spuDescription": "HUAWEI nova 9 120Hz高刷 后置5000万超感知影像 搭载HarmonyOS 2 ",
+  "spuName": "HUAWEI nova 9 120Hz高刷 后置5000万超感知影像 搭载HarmonyOS 2 ",
+  "weight": 0.32
+}

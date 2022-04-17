@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.atguigu.product.dao.CategoryDao">
+
+	<!-- 可根据自己的需求，是否要使用 -->
+    <resultMap type="com.atguigu.product.entity.CategoryEntity" id="categoryMap">
+        <result property="catId" column="cat_id"/>
+        <result property="name" column="name"/>
+        <result property="parentCid" column="parent_cid"/>
+        <result property="catLevel" column="cat_level"/>
+        <result property="showStatus" column="show_status"/>
+        <result property="sort" column="sort"/>
+        <result property="icon" column="icon"/>
+        <result property="productUnit" column="product_unit"/>
+        <result property="productCount" column="product_count"/>
+    </resultMap>
+
+    <!-- collection：分步查询 -->
+    <resultMap type="com.atguigu.product.vo.CategoryTreeVO" id="categoryTree">
+        <id column="cat_id" property="catId"/>
+        <id column="name" property="name"/>
+        <result property="parentCid" column="parent_cid"/>
+        <collection property="children" column="cat_id" select="getChildren"></collection>
+<!--                    select="com.atguigu.product.dao.CategoryDao.getChildren"-->
+
+    </resultMap>
+    <!-- public Department getDeptByIdStep(Integer id); -->
+    <select id="selectListTree" resultMap="categoryTree">
+		select  cat_id,name,parent_cid from pms_category   where parent_cid=0
+	</select>
+
+    <!-- public List<Employmee> getEmpsByDeptId(Integer deptId); -->
+    <select id="getChildren" resultMap="categoryTree">
+		select  cat_id,name,parent_cid  from pms_category  where parent_cid=#{parentCid}
+	</select>
+
+</mapper>

@@ -1,0 +1,86 @@
+server:
+  port: 88
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: http://localhost:8848
+    gateway:
+      globalcors:
+        add-to-simple-url-handler-mapping: true # 解决options请求被拦截问题
+        cors-configurations:
+          '[/**]':
+            allowedOrigins: "*"
+            allowedMethods:
+            - POST
+            - GET
+            - DELECT
+            - PUT
+            - OPTIONS
+            allowedHeaders: "*" # 允许在请求中携带的头信息
+            allowCredentials: true # 是否允许携带cookie
+            maxAge: 360000 # 这次跨域检测的有效期
+      routes:
+      - id: ware_route
+        uri: lb://gulimall-ware
+        predicates:
+        - Path=/api/ware/**
+        filters:
+        - RewritePath=/api/(?<segment>.*), /$\{segment}
+      - id: coupon_route
+        uri: lb://gulimall-coupon
+        predicates:
+        - Path=/api/coupon/**
+        filters:
+        - RewritePath=/api/(?<segment>.*), /$\{segment}
+      - id: member_route
+        uri: lb://gulimall-member
+        predicates:
+        - Path=/api/member/**
+        filters:
+        - RewritePath=/api/(?<segment>.*), /$\{segment}
+      - id: third_route
+        uri: lb://gulimall-third-party
+        predicates:
+        - Path=/api/thirdparty/**
+        filters:
+        - RewritePath=/api/(?<segment>.*), /$\{segment}
+      - id: product_route
+        uri: lb://gulimall-product
+        predicates:
+        - Path=/api/product/**
+        filters:
+        - RewritePath=/api/(?<segment>.*), /$\{segment}
+      - id: renren_route
+        uri: lb://gulimall-admin
+        predicates:
+        - Path=/api/**
+        filters:
+        - RewritePath=/api/(?<segment>.*), /renren-fast/$\{segment}
+      - id: product_host_route
+        uri: lb://gulimall-product
+        predicates:
+        - Host= gulimall.com,item.gulimall.com
+      - id: search_host_route
+        uri: lb://gulimall-search
+        predicates:
+        - Host= search.gulimall.com
+      - id: auth_route
+        uri: lb://gulimall-auth-service
+        predicates:
+        - Host= auth.gulimall.com
+      - id: cart_route
+        uri: lb://gulimall-cart
+        predicates:
+        - Host= cart.gulimall.com
+      - id: cart_route
+        uri: lb://gulimall-order
+        predicates:
+        - Host= order.gulimall.com
+  application:
+    name: gulimall-gateway
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

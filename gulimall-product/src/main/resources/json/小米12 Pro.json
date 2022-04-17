@@ -1,0 +1,610 @@
+{
+  "baseAttrs": [
+    {
+      "attrId": 1497084806096195600,
+      "attrName": "入网型号",
+      "attrValues": "以官网信息为准",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085691807371300,
+      "attrName": "品牌",
+      "attrValues": "小米（MI）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085864323289000,
+      "attrName": "产品名称",
+      "attrValues": "小米12 Pro",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086002500440000,
+      "attrName": "上市时间",
+      "attrValues": "2021年12月31日",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497413969399218200,
+      "attrName": "操作系统",
+      "attrValues": "Android（安卓）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086346622111700,
+      "attrName": "机身宽度",
+      "attrValues": "74.65mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086440482246700,
+      "attrName": "机身重量",
+      "attrValues": "205g",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086601900036000,
+      "attrName": "机身长度",
+      "attrValues": "163.57mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086688277532700,
+      "attrName": "机身厚度",
+      "attrValues": "8.16mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086838991458300,
+      "attrName": "机身材质",
+      "attrValues": "玻璃",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497087714065879000,
+      "attrName": "CPU品牌",
+      "attrValues": "高通(Qualcomm)",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497087872560238600,
+      "attrName":  "cpu型号",
+      "attrValues": "骁龙8 Gen1",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088389361406000,
+      "attrName": "屏幕材质类型",
+      "attrValues": "AMOLED",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088562837819400,
+      "attrName": "主屏幕尺寸",
+      "attrValues": "6.73英寸",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088852316098600,
+      "attrName": "网络支持",
+      "attrValues": "移动5G；联通5G；电信5G",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089008943992800,
+      "attrName": "最大支持SIM卡数量",
+      "attrValues": "2",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497089256676364300,
+      "attrName": "NFC/NFC模式",
+      "attrValues": "支持",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089603264286700,
+      "attrName": "充电接口类型",
+      "attrValues": "Type-C 接口",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439413297094700,
+      "attrName": "电池容量",
+      "attrValues": "4600mAh",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439564166209500,
+      "attrName": "电池可拆卸",
+      "attrValues": "不可拆卸",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439961916252200,
+      "attrName": "充电器",
+      "attrValues": "20V/6A",
+      "showDesc": 0
+    }
+  ],
+  "bounds": {
+    "buyBounds": 1,
+    "growBounds": 1
+  },
+  "brandId": 3,
+  "catalogId": 225,
+  "decript": [
+    "https://img30.360buyimg.com/sku/jfs/t1/173854/20/26738/223198/61eabac1E8539f928/47296077629d0aac.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/219549/32/9487/80728/61cd7853E7b2a3de2/9f9c1c3590b5f6d7.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/103906/30/20842/400403/61cd7854E844fe15e/946c1e277c9643b6.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/160711/3/28202/217033/61cd7854E25da8d17/c5bc430f3c3a9a6d.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/222940/6/7699/182131/61cd7854Ea1ea0625/681dd05f2228339a.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/213396/12/9662/252784/61cd7854E6f3ab617/03c188bf19a0bd2a.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/207545/24/14768/112191/61d2ce90Edb7abf21/4e2687524c31579a.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/207139/16/14521/244534/61cd7854E3ca36393/14c40e7780b1c2b6.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/133327/11/20961/165665/61cd7854E6dc2d3da/2bb076a20fb16c79.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/206885/38/14840/359374/61cd7854E020e0738/bf83eda0d1e538a9.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/134954/15/22867/67004/61e92c2fEc03057a4/3282c3884e3c1baf.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/138942/5/27273/814737/61e92c42E9734c0a5/b276058c83890911.gif"
+  ],
+  "images": [
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/174875/33/27036/94000/621879f3Edb9937d0/0290c4b44cc35c7f.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/120069/25/19730/106646/6130a8f0E9a18a808/cc59f7c1ac8b6d93.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190300/12/21766/59119/6130a8f0E456f7016/381bcd4340525257.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/201748/13/4448/78818/6130a8f0E0e9a0b2d/55402ecf6dcf5987.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/38699/36/15861/54202/6130a8f1Ec81bb19c/7df08f37f9e01035.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190882/40/21178/123660/6130a8f1E24d02318/d7a92fd5d878ea44.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/205861/29/4317/65481/6130a8f1Eeda1ce07/6420082c40986672.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/194176/27/21270/118033/6130a8f1E3d8a40de/14dc646511a6857c.jpg"
+  ],
+  "publishStatus": 0,
+  "skus": [
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "黑色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "黑色",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 4000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/190568/16/21760/275942/6229b407Eef377563/49867a48d0b3beba.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/211184/11/14229/117319/61cb0607Ec71f58b0/371b581223667f88.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/124682/29/20393/104108/61df9dfaE6b178956/b91435a98aaa5532.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/175760/28/26966/136829/61df9dfaE9ec2484e/0e63b757ecc12942.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/48147/27/18150/104183/61df9dfaE7279c1cb/0c58cb12ae5be96f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/130745/29/21466/115685/61df9dfaE33ec17ec/0183786e3da59d81.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/128383/13/20962/137003/61df9dfaE1e827121/46bd88c35cb01ef0.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/137911/5/26128/134455/61cb210aEc6aa040a/a6f7a47fdf827e1a.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price":  4699.00,
+      "priceStatus": 0,
+      "reducePrice": 400,
+      "skuName": "小米12 Pro 骁龙8 Gen1 2K AMOLED 120Hz高刷 5000万疾速影像 120W小米澎湃秒充 8GB+128GB 黑色 5G手机",
+      "skuSubtitle": "【白条24期免息】全新一代骁龙8移动平台,120W小米澎湃快充,4600mAh大电量,5000万高清主摄万物追焦【点击抢购小米12】",
+      "skuTitle": "小米12 Pro 骁龙8 Gen1 2K AMOLED 120Hz高刷 5000万疾速影像 120W小米澎湃秒充 8GB+128GB 黑色 5G手机"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "黑色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB  "
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "黑色",
+        "套餐一",
+        "8GB+256GB "
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 4000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/190568/16/21760/275942/6229b407Eef377563/49867a48d0b3beba.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/211184/11/14229/117319/61cb0607Ec71f58b0/371b581223667f88.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/124682/29/20393/104108/61df9dfaE6b178956/b91435a98aaa5532.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/175760/28/26966/136829/61df9dfaE9ec2484e/0e63b757ecc12942.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/48147/27/18150/104183/61df9dfaE7279c1cb/0c58cb12ae5be96f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/130745/29/21466/115685/61df9dfaE33ec17ec/0183786e3da59d81.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/128383/13/20962/137003/61df9dfaE1e827121/46bd88c35cb01ef0.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/137911/5/26128/134455/61cb210aEc6aa040a/a6f7a47fdf827e1a.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 4999.00 ,
+      "priceStatus": 0,
+      "reducePrice": 400,
+      "skuName": "小米12 Pro 骁龙8 Gen1 2K AMOLED 120Hz高刷 5000万疾速影像 120W小米澎湃秒充 8GB+256GB 黑色 5G手机",
+      "skuSubtitle": "【白条24期免息】全新一代骁龙8移动平台,120W小米澎湃快充,4600mAh大电量,5000万高清主摄万物追焦【点击抢购小米12】",
+      "skuTitle": "小米12 Pro 骁龙8 Gen1 2K AMOLED 120Hz高刷 5000万疾速影像 120W小米澎湃秒充 8GB+256GB 黑色 5G手机"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "蓝色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "蓝色",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 4000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/159414/21/28833/287179/6229b413Ee8482bc9/71bff21b506ec65b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/105529/19/20610/74561/61cb069dEa92197c7/77b36ff9108e4bd9.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/124682/29/20393/104108/61df9dfaE6b178956/b91435a98aaa5532.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/175760/28/26966/136829/61df9dfaE9ec2484e/0e63b757ecc12942.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/48147/27/18150/104183/61df9dfaE7279c1cb/0c58cb12ae5be96f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/48147/27/18150/104183/61df9dfaE7279c1cb/0c58cb12ae5be96f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/128383/13/20962/137003/61df9dfaE1e827121/46bd88c35cb01ef0.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/217354/27/9637/24533/61ceef77Eecb089f5/8adf8d2b2571892a.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 4699.00,
+      "priceStatus": 0,
+      "reducePrice": 400,
+      "skuName": "小米12 Pro 骁龙8 Gen1 2K AMOLED 120Hz高刷 5000万疾速影像 120W小米澎湃秒充 8GB+128GB 蓝色 5G手机",
+      "skuSubtitle": "【白条24期免息】全新一代骁龙8移动平台,120W小米澎湃快充,4600mAh大电量,5000万高清主摄万物追焦【点击抢购小米12】",
+      "skuTitle": "小米12 Pro 骁龙8 Gen1 2K AMOLED 120Hz高刷 5000万疾速影像 120W小米澎湃秒充 8GB+128GB 蓝色 5G手机"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "蓝色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "蓝色",
+        "套餐一",
+        "8GB+256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 4000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/159414/21/28833/287179/6229b413Ee8482bc9/71bff21b506ec65b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/105529/19/20610/74561/61cb069dEa92197c7/77b36ff9108e4bd9.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/124682/29/20393/104108/61df9dfaE6b178956/b91435a98aaa5532.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/175760/28/26966/136829/61df9dfaE9ec2484e/0e63b757ecc12942.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/48147/27/18150/104183/61df9dfaE7279c1cb/0c58cb12ae5be96f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/48147/27/18150/104183/61df9dfaE7279c1cb/0c58cb12ae5be96f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/128383/13/20962/137003/61df9dfaE1e827121/46bd88c35cb01ef0.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/217354/27/9637/24533/61ceef77Eecb089f5/8adf8d2b2571892a.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 4999.00,
+      "priceStatus": 0,
+      "reducePrice": 400,
+      "skuName": "小米12 Pro 骁龙8 Gen1 2K AMOLED 120Hz高刷 5000万疾速影像 120W小米澎湃秒充 8GB+256GB 蓝色 5G手机",
+      "skuSubtitle": "【白条24期免息】全新一代骁龙8移动平台,120W小米澎湃快充,4600mAh大电量,5000万高清主摄万物追焦【点击抢购小米12】",
+      "skuTitle": "小米12 Pro 骁龙8 Gen1 2K AMOLED 120Hz高刷 5000万疾速影像 120W小米澎湃秒充 8GB+256GB 蓝色 5G手机"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "紫色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "紫色",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 4000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/116891/29/21897/282419/6229b412E83a7784e/cee8c583fc0bd2d4.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/104655/5/20194/106054/61cafe96Ed165c993/780206517ef3d37b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/124682/29/20393/104108/61df9dfaE6b178956/b91435a98aaa5532.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/175760/28/26966/136829/61df9dfaE9ec2484e/0e63b757ecc12942.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/48147/27/18150/104183/61df9dfaE7279c1cb/0c58cb12ae5be96f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/130745/29/21466/115685/61df9dfaE33ec17ec/0183786e3da59d81.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/128383/13/20962/137003/61df9dfaE1e827121/46bd88c35cb01ef0.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/89820/22/20418/46581/61cafe97Efb51b722/ff619ae2318ad031.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 4699.00 ,
+      "priceStatus": 0,
+      "reducePrice": 400,
+      "skuName": "小米12 Pro 骁龙8 Gen1 2K AMOLED 120Hz高刷 5000万疾速影像 120W小米澎湃秒充 8GB+128GB 紫色 5G手机",
+      "skuSubtitle": "【白条24期免息】全新一代骁龙8移动平台,120W小米澎湃快充,4600mAh大电量,5000万高清主摄万物追焦【点击抢购小米12】",
+      "skuTitle": "小米12 Pro 骁龙8 Gen1 2K AMOLED 120Hz高刷 5000万疾速影像 120W小米澎湃秒充 8GB+128GB 紫色 5G手机"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "紫色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "紫色",
+        "套餐一",
+        "8GB+256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 4000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/116891/29/21897/282419/6229b412E83a7784e/cee8c583fc0bd2d4.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/104655/5/20194/106054/61cafe96Ed165c993/780206517ef3d37b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/124682/29/20393/104108/61df9dfaE6b178956/b91435a98aaa5532.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/175760/28/26966/136829/61df9dfaE9ec2484e/0e63b757ecc12942.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/48147/27/18150/104183/61df9dfaE7279c1cb/0c58cb12ae5be96f.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/130745/29/21466/115685/61df9dfaE33ec17ec/0183786e3da59d81.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/128383/13/20962/137003/61df9dfaE1e827121/46bd88c35cb01ef0.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img11.360buyimg.com/n5/s54x54_jfs/t1/89820/22/20418/46581/61cafe97Efb51b722/ff619ae2318ad031.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 4999.00 ,
+      "priceStatus": 0,
+      "reducePrice": 400,
+      "skuName": "小米12 Pro 骁龙8 Gen1 2K AMOLED 120Hz高刷 5000万疾速影像 120W小米澎湃秒充 8GB+256GB 紫色 5G手机",
+      "skuSubtitle": "【白条24期免息】全新一代骁龙8移动平台,120W小米澎湃快充,4600mAh大电量,5000万高清主摄万物追焦【点击抢购小米12】",
+      "skuTitle": "小米12 Pro 骁龙8 Gen1 2K AMOLED 120Hz高刷 5000万疾速影像 120W小米澎湃秒充 8GB+256GB 紫色 5G手机"
+    }
+  ],
+  "spuDescription": "小米12 Pro 骁龙8 Gen1 2K AMOLED 120Hz高刷 5000万疾速影像 120W小米澎湃秒充",
+  "spuName": "小米12 Pro 骁龙8 Gen1 2K AMOLED 120Hz高刷 5000万疾速影像 120W小米澎湃秒充",
+  "weight": 0.6
+}

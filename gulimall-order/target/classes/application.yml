@@ -1,0 +1,49 @@
+server:
+  port: 4000
+spring:
+
+  session:
+    store-type: redis
+  redis:
+    host: 47.99.155.81
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+    cache: false
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+    default-property-inclusion: NON_EMPTY
+  cloud:
+    nacos:
+      discovery:
+        server-addr: http://localhost:8848
+  application:
+    name: gulimall-order
+  datasource:
+    url: jdbc:mysql://47.99.155.81:3306/gulimall_oms?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  mvc:
+    date-format: yyyy-MM-dd HH:mm:ss
+  rabbitmq:
+    addresses: 47.99.155.81
+    virtual-host: /
+    username: guest
+    password: guest
+    template:
+      mandatory: true
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+alipay:
+  gatewayUrl:  https://openapi.alipaydev.com/gateway.do
+  appId: 2021000117696530
+  merchantPrivateKey: MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCA74Z7VT3VSgmhaf3LzYe3Nb9saql9/E7MexPvHizQxgZRZJM03q3lpWdpzaPb4wXArRjZlZXSnD/Df7qmlkLmdG5RgSry3XMLeswI/lAVc1TOVWI9hAZ+wa/YnWYHEx5jddKDJ/ZuqFejxbisu8BUANCtsVVanMP4bM2i8qnwH7FV9CV1u0hm48g5Ya7PcZvHZXKzD8j5Q+94tKOuljUU0VmNapeBYfdpXUcmaO4NPbPm2Ygx26B6C4gVG+v/ZHCoJZMqghVnG5m08dBMcUAiXOazfi3pnQu9gSuvUAnRWOAcNywQnXZuumHuGzVZ+4dvpU1zHLRfXBhfsusND2S5AgMBAAECggEAOMrIfpy+Xqt88HdiThna1K09AwE8ZPz0rIbt8d5luRPwhnt5h8kp6cRgd68XpOwrhYH5NyX3V0xxnaguS+BV2XKhgQ8XHuDCIuVU6AU0uy4Qxc3ANv5naf/gd9ZksWsPcJnePt0kY/uMltupi5QrlBTD1i4NPZtdiphKP6MJjXWWDEsZiFm8SvoyFdqmZIbht2xhkykaKBetff/l8O1S9snqXSwdxFggtpPKP5asnYAT3QvHzkJUCKLaRaG4OVjeMx9jQc4/0smb+CZllbKhe9zE+zF/XQrag859aVDbkzoKRUH3pwiAzGrLtnyfljqtTBqyNEvO4Z0VhJ0YiQENrQKBgQDWIz+Md8MVTdyVvD/xWV2zk12RIIqKe5gBYviXtQ0l7M5yvhty4M6aW9CZ/0BzmY9maKxcRdts+FdgG1JktdT0eMNZHhHH+yVHZaChWH/th/TXmPUt6Spkj/oQbcz7gzw6VsR/hVuvbKGgouCh++EEVgKQ4ZR2HzyMiyGpVIcEGwKBgQCaJD+3LPXF2iyn++EY36kqofX55Kb8KdmtGeYwc5Gypobnfeu/iK02xXI0x96PQVjsvTTRPBa94N65f+JcYdK++Na1PGBBEWMH4XQymM9/XaFLzqUtqyIf0xthvhdBGgy+CoMHIhrI/tGswKH4UzzT3YSQZVCg9ZX4xUy4tJJ/uwKBgDVkopLOxdjJCkhXoQX3x3JgO0NVftXazWMDH4MMRNQBANUBa+yv+zPn0tKjH5nzXxsk3F1Bmd3I6lhvV5L+97NhbSwKYFqh14C+6Vdxrqw2ayla3T9uVQCwGaUBC8xmw5y0R9iYEu1hw8c+9Y3ONSQUoh0n8hGl5j4Q7vq+tc+jAoGAPGASbOc5ZUPt1eZ85sdEdaR2umjrVz31Oy430aaS3Q0JLkdOPfmFDz0LXM0kyavo7uG1fHcy2TDpTHNg8JqId7D0OIzrjtEGnyGZ5++e5t5/vTe1z0uG1DxWL1TLuv4/G3j2laawIyZcbnQNfTztSHct43krucA3+/cb9AUWlN0CgYAOhddQR+VxHvzALqMvkehDqSeMCIu2DwmfLxHL6omQhyZ1Wb53y1gIbdkMOLniE+bEpfCSgmcA67/xYe1wlCjeUukr/azlHUGONlLgmhPda4M9dx4bLNweR7pFhTJDbzB/18/eoFdu7mYlzXxQCGDrPTdgsOyAS64QamBBFAmvtQ==
+  format: json
+  charset: UTF-8
+  alipayPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAobFT6A0ejOmvfIUjXKO7vwn0fXmrpyUUCh0wWFp/uI8cf1LxHixKsJA5yqvHqZUvWZuc/dWhfu/yA8Su7pCYA0OQPA0JJprfa4l2vqC03YNNCmzvqXc7g/nQ2KqwvkNMu9dEkPBLzKu8Lk93dpkM28sS2sHQ5RrxFz98Wb02ndIq2v5PtPpNv4f77Wz1U1Co2ZIgZ9+byZXkL4ajFbteVcrgTMeG3gXN8U8WFGl9NoQakBHund52mqDClu+JuIVB7BLLmSVY0kda3m46ads9HaurHGRZkwWQQLRudX+HFFqrPGNsryCdsO1Erp55MYbipRkr8DPjMHTVlagKc/jv9QIDAQAB
+  signType: RSA2

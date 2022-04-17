@@ -1,0 +1,654 @@
+{
+  "baseAttrs": [
+    {
+      "attrId": 1497084806096195600,
+      "attrName": "入网型号",
+      "attrValues": "LSA-AN00",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085691807371300,
+      "attrName": "品牌",
+      "attrValues": "荣耀（HONOR）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085864323289000,
+      "attrName": "产品名称",
+      "attrValues": "荣耀60",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086002500440000,
+      "attrName": "上市时间",
+      "attrValues": "2021年12月",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497413969399218200,
+      "attrName": "操作系统",
+      "attrValues": "Android（安卓）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086346622111700,
+      "attrName": "机身宽度",
+      "attrValues": "73.3mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086440482246700,
+      "attrName": "机身重量",
+      "attrValues": "179g",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086601900032000,
+      "attrName": "机身长度",
+      "attrValues": "161.4mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086688277532700,
+      "attrName": "机身厚度",
+      "attrValues": "7.98mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086838991458300,
+      "attrName": "机身材质",
+      "attrValues": "其他",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497087714065879000,
+      "attrName": "CPU品牌",
+      "attrValues": "高通(Qualcomm)",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497087872560238600,
+      "attrName":  "cpu型号",
+      "attrValues": "高通骁龙778G",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088389361402000,
+      "attrName": "屏幕材质类型",
+      "attrValues": "其他",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088562837819400,
+      "attrName": "主屏幕尺寸",
+      "attrValues": "6.67英寸",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088852316098600,
+      "attrName": "网络支持",
+      "attrValues": "移动5G；联通5G；电信5G",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089008943992800,
+      "attrName": "最大支持SIM卡数量",
+      "attrValues": "2",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497089256676364300,
+      "attrName": "NFC/NFC模式",
+      "attrValues": "支持",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089603264286700,
+      "attrName": "充电接口类型",
+      "attrValues": "Type-C 接口",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439413297094700,
+      "attrName": "电池容量",
+      "attrValues": "4400mAh",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439564166209500,
+      "attrName": "电池可拆卸",
+      "attrValues": "不可拆卸",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439961916252200,
+      "attrName": "充电器",
+      "attrValues": "其他",
+      "showDesc": 0
+    }
+  ],
+  "bounds": {
+    "buyBounds": 1,
+    "growBounds": 1
+  },
+  "brandId": 1,
+  "catalogId": 225,
+  "decript": [
+    "thttps://img30.360buyimg.com/sku/jfs/t1/174284/7/21905/443143/61a71cb6E6b35de74/21db9e695649ec16.jpg",
+    "thttps://img30.360buyimg.com/sku/jfs/t1/204127/39/17129/334007/61a71cb7Ebad29227/384ed97d5fc8df3a.jpg",
+    "thttps://img30.360buyimg.com/sku/jfs/t1/157276/14/21155/423630/61a71cb7Ef91873d9/57ef3d73c614b91c.jpg",
+    "thttps://img30.360buyimg.com/sku/jfs/t1/172137/20/21841/414183/61a71cb7Eaca7f70f/762559195b65e61e.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/165257/4/21421/337805/61a71cb7E55904218/23122a7c63468de6.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/222189/23/4508/414257/61a71cb7E0bc690ff/4037981896053135.jpg",
+    "thttps://img30.360buyimg.com/sku/jfs/t1/221748/19/4465/415383/61a71cb7E4ea75b99/c705a7bcf5e1137a.jpg",
+    "thttps://img30.360buyimg.com/sku/jfs/t1/103111/17/21961/471991/61e50893E2accf0df/abe2a9293debc4c2.jpg"
+  ],
+  "images": [
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/174875/33/27036/94000/621879f3Edb9937d0/0290c4b44cc35c7f.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/120069/25/19730/106646/6130a8f0E9a18a808/cc59f7c1ac8b6d93.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190300/12/21766/59119/6130a8f0E456f7016/381bcd4340525257.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/201748/13/4448/78818/6130a8f0E0e9a0b2d/55402ecf6dcf5987.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/38699/36/15861/54202/6130a8f1Ec81bb19c/7df08f37f9e01035.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190882/40/21178/123660/6130a8f1E24d02318/d7a92fd5d878ea44.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/205861/29/4317/65481/6130a8f1Eeda1ce07/6420082c40986672.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/194176/27/21270/118033/6130a8f1E3d8a40de/14dc646511a6857c.jpg"
+  ],
+  "publishStatus": 0,
+  "skus": [
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "幻境星空"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "幻境星空",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/6622/31/21411/224131/61f15e22E7d2017bc/423df591ca50ff6c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/218114/5/6227/235377/61a60e2dE814fa904/2bd6e679e142ad60.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/205875/29/17084/119034/61a60e2dE02705c5c/f083fb007a0bd68a.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/161432/2/26966/175848/61a60e2dE8f8d3ff5/ed7721dba485272d.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/169595/38/26851/100177/61a60e2dEb7c1329c/9918997fab06a200.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/220302/2/6035/131469/61a60e2dE4d8540eb/4c4e8d906c1a4b94.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/222930/10/4326/98950/61a60e2dEfa87a358/e2a997184b98e8b9.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/214465/37/6202/131667/61a60e2dE573f16be/0d56e51899c2b210.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/133445/7/25738/80713/61a60e2dE5aa09676/21f304507e21cb48.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/216363/40/6138/31733/61a60e2dE052e6942/84171585ad8ad92b.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 2699.00,
+      "priceStatus": 0,
+      "reducePrice": 200,
+      "skuName": "荣耀60 前后双曲设计 1亿像素超清摄影 高通骁龙778G 5G 66W智慧超级快充 全网通版 8GB+128GB 幻境星空",
+      "skuSubtitle": "荣耀|数字系列|荣耀60|游戏|智能|拍照|新品大屏|快充|双卡双待|内存|人脸识别|优惠|分期|学生|旗舰|推荐手机",
+      "skuTitle": "荣耀60 前后双曲设计 1亿像素超清摄影 高通骁龙778G 5G 66W智慧超级快充 全网通版 8GB+128GB 幻境星空"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "幻境星空"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB  "
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "幻境星空",
+        "套餐一",
+        "8GB+256GB "
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/6622/31/21411/224131/61f15e22E7d2017bc/423df591ca50ff6c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/218114/5/6227/235377/61a60e2dE814fa904/2bd6e679e142ad60.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/205875/29/17084/119034/61a60e2dE02705c5c/f083fb007a0bd68a.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/161432/2/26966/175848/61a60e2dE8f8d3ff5/ed7721dba485272d.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/169595/38/26851/100177/61a60e2dEb7c1329c/9918997fab06a200.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/220302/2/6035/131469/61a60e2dE4d8540eb/4c4e8d906c1a4b94.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/222930/10/4326/98950/61a60e2dEfa87a358/e2a997184b98e8b9.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/214465/37/6202/131667/61a60e2dE573f16be/0d56e51899c2b210.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/133445/7/25738/80713/61a60e2dE5aa09676/21f304507e21cb48.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/s54x54_jfs/t1/216363/40/6138/31733/61a60e2dE052e6942/84171585ad8ad92b.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 2999.00,
+      "priceStatus": 0,
+      "reducePrice": 200,
+      "skuName": "荣耀60 前后双曲设计 1亿像素超清摄影 高通骁龙778G 5G 66W智慧超级快充 全网通版 8GB+256GB 幻境星空",
+      "skuSubtitle": "荣耀|数字系列|荣耀60|游戏|智能|拍照|新品大屏|快充|双卡双待|内存|人脸识别|优惠|分期|学生|旗舰|推荐手机",
+      "skuTitle": "荣耀60 前后双曲设计 1亿像素超清摄影 高通骁龙778G 5G 66W智慧超级快充 全网通版 8GB+256GB 幻境星空"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "墨玉青"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "墨玉青",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/147755/37/22136/179012/61f15e08E7b6bd9bf/9c22cd7c3f2d49d8.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/147755/37/22136/179012/61f15e08E7b6bd9bf/9c22cd7c3f2d49d8.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/211528/14/11083/114007/61a60dcbE77307db8/a33852e2d4adc072.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/203115/18/17178/84574/61a60dcbEc865e07d/dd1efc8ef4bc6b83.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/199114/3/19079/96986/61a60dcbE2b223cc9/7014cae9cc7d8ff7.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/197658/32/18929/69911/61a60dcbEff70d774/0898a081a30173f1.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/199418/26/18705/95272/61a60de6Ea2b3d456/4d2db91f50bfcb10.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/172157/5/22217/73103/61a60dcbE113b0078/02bda42cfa44f490.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/219480/31/6168/78124/61a60dcbE184f16e6/dfe62776fcdcacdc.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/213602/33/6143/59172/61a60dcbEd665ca30/f72f835468e24ccb.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 2699.00,
+      "priceStatus": 0,
+      "reducePrice": 200,
+      "skuName": "荣耀60 前后双曲设计 1亿像素超清摄影 高通骁龙778G 5G 66W智慧超级快充 全网通版 8GB+128GB 墨玉青",
+      "skuSubtitle": "荣耀|数字系列|荣耀60|游戏|智能|拍照|新品大屏|快充|双卡双待|内存|人脸识别|优惠|分期|学生|旗舰|推荐手机",
+      "skuTitle": "荣耀60 前后双曲设计 1亿像素超清摄影 高通骁龙778G 5G 66W智慧超级快充 全网通版 8GB+128GB 墨玉青"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "墨玉青"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "墨玉青",
+        "套餐一",
+        "8GB+256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/147755/37/22136/179012/61f15e08E7b6bd9bf/9c22cd7c3f2d49d8.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/147755/37/22136/179012/61f15e08E7b6bd9bf/9c22cd7c3f2d49d8.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/211528/14/11083/114007/61a60dcbE77307db8/a33852e2d4adc072.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/203115/18/17178/84574/61a60dcbEc865e07d/dd1efc8ef4bc6b83.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/199114/3/19079/96986/61a60dcbE2b223cc9/7014cae9cc7d8ff7.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/197658/32/18929/69911/61a60dcbEff70d774/0898a081a30173f1.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/199418/26/18705/95272/61a60de6Ea2b3d456/4d2db91f50bfcb10.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/172157/5/22217/73103/61a60dcbE113b0078/02bda42cfa44f490.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/219480/31/6168/78124/61a60dcbE184f16e6/dfe62776fcdcacdc.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/213602/33/6143/59172/61a60dcbEd665ca30/f72f835468e24ccb.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 2999.00,
+      "priceStatus": 0,
+      "reducePrice": 200,
+      "skuName": "荣耀60 前后双曲设计 1亿像素超清摄影 高通骁龙778G 5G 66W智慧超级快充 全网通版 8GB+256GB 墨玉青",
+      "skuSubtitle": "荣耀|数字系列|荣耀60|游戏|智能|拍照|新品大屏|快充|双卡双待|内存|人脸识别|优惠|分期|学生|旗舰|推荐手机",
+      "skuTitle": "荣耀60 前后双曲设计 1亿像素超清摄影 高通骁龙778G 5G 66W智慧超级快充 全网通版 8GB+256GB 墨玉青"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "朱丽叶"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "朱丽叶",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/147511/31/27337/228845/61f15e37E1d8ed470/8f3cda12485a7ed7.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/175046/5/21168/242784/61a60f33Ef4d8bd87/79ab787cda331fd9.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/214370/11/6215/104385/61a60f32E591c8a0d/3392ba70f8ffd52b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/138384/23/21793/216413/61a60f32Ef0fb71eb/6c51403f2a8a41b0.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/170561/18/25247/89377/61a60f33Ec0cc9048/2288d20cef42e535.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/204971/20/17018/163004/61a60f33Efe09b652/3bda8701058c77ce.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/171500/5/25922/87716/61a60f33E08207ad7/285d7818899e52bb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/207805/1/11265/161981/61a60f33Efe5edbeb/42bd3d88d08affc6.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/211047/20/11078/72798/61a60f33E3153c9c1/2181a981d700b28b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/166463/37/21690/105153/61a60f32Ea21fe47e/331af12a415174d9.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 2699.00,
+      "priceStatus": 0,
+      "reducePrice": 200,
+      "skuName": "荣耀60 前后双曲设计 1亿像素超清摄影 高通骁龙778G 5G 66W智慧超级快充 全网通版 8GB+128GB 朱丽叶",
+      "skuSubtitle": "荣耀|数字系列|荣耀60|游戏|智能|拍照|新品大屏|快充|双卡双待|内存|人脸识别|优惠|分期|学生|旗舰|推荐手机",
+      "skuTitle": "荣耀60 前后双曲设计 1亿像素超清摄影 高通骁龙778G 5G 66W智慧超级快充 全网通版 8GB+128GB 朱丽叶"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "朱丽叶"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "朱丽叶",
+        "套餐一",
+        "8GB+256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 2000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/147511/31/27337/228845/61f15e37E1d8ed470/8f3cda12485a7ed7.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/175046/5/21168/242784/61a60f33Ef4d8bd87/79ab787cda331fd9.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/214370/11/6215/104385/61a60f32E591c8a0d/3392ba70f8ffd52b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/138384/23/21793/216413/61a60f32Ef0fb71eb/6c51403f2a8a41b0.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/170561/18/25247/89377/61a60f33Ec0cc9048/2288d20cef42e535.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/204971/20/17018/163004/61a60f33Efe09b652/3bda8701058c77ce.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/171500/5/25922/87716/61a60f33E08207ad7/285d7818899e52bb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/207805/1/11265/161981/61a60f33Efe5edbeb/42bd3d88d08affc6.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/211047/20/11078/72798/61a60f33E3153c9c1/2181a981d700b28b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/166463/37/21690/105153/61a60f32Ea21fe47e/331af12a415174d9.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 2999.00,
+      "priceStatus": 0,
+      "reducePrice": 200,
+      "skuName": "荣耀60 前后双曲设计 1亿像素超清摄影 高通骁龙778G 5G 66W智慧超级快充 全网通版 8GB+256GB 朱丽叶",
+      "skuSubtitle": "荣耀|数字系列|荣耀60|游戏|智能|拍照|新品大屏|快充|双卡双待|内存|人脸识别|优惠|分期|学生|旗舰|推荐手机",
+      "skuTitle": "荣耀60 前后双曲设计 1亿像素超清摄影 高通骁龙778G 5G 66W智慧超级快充 全网通版 8GB+256GB 朱丽叶"
+    }
+  ],
+  "spuDescription": "荣耀60 前后双曲设计 1亿像素超清摄影 高通骁龙778G 5G 66W智慧超级快充 全网通版",
+  "spuName": "荣耀60 前后双曲设计 1亿像素超清摄影 高通骁龙778G 5G 66W智慧超级快充 全网通版",
+  "weight": 0.51
+}

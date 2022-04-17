@@ -1,0 +1,591 @@
+{
+  "baseAttrs": [
+    {
+      "attrId": 1497084806096195600,
+      "attrName": "入网型号",
+      "attrValues": "NOH-AL00/NOH-AL10",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085691807371300,
+      "attrName": "品牌",
+      "attrValues": "华为（HUAWEI）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085864323289000,
+      "attrName": "产品名称",
+      "attrValues": "HUAWEI Mate 40 Pro",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086002500440000,
+      "attrName": "上市时间",
+      "attrValues": "2021年6月",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497413969399218200,
+      "attrName": "操作系统",
+      "attrValues": "Harmony（鸿蒙）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086346622111700,
+      "attrName": "机身宽度",
+      "attrValues": "75.5mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086440482246700,
+      "attrName": "机身重量",
+      "attrValues": "212g",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086601900036000,
+      "attrName": "机身长度",
+      "attrValues": "162.9mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086688277532700,
+      "attrName": "机身厚度",
+      "attrValues": "9.1mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086838991458300,
+      "attrName": "机身材质",
+      "attrValues": "其他",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497087714065879000,
+      "attrName": "CPU品牌",
+      "attrValues": "华为麒麟（HUAWEI Kirin）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497087872560238600,
+      "attrName":  "cpu型号",
+      "attrValues": "麒麟9000",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088389361406000,
+      "attrName": "屏幕材质类型",
+      "attrValues": "OLED",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088562837819400,
+      "attrName": "主屏幕尺寸",
+      "attrValues": "其他",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088852316098600,
+      "attrName": "网络支持",
+      "attrValues": "4G FDD-LTE(联通)；4G TD-LTE(移动)；4G FDD-LTE(联通、电信)",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089008943992800,
+      "attrName": "最大支持SIM卡数量",
+      "attrValues": "2",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497089256676364300,
+      "attrName": "NFC/NFC模式",
+      "attrValues": "支持",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089603264286700,
+      "attrName": "充电接口类型",
+      "attrValues": "Type-C 接口",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439413297094700,
+      "attrName": "电池容量",
+      "attrValues": "4400mAh",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439564166209500,
+      "attrName": "电池可拆卸",
+      "attrValues": "不可拆卸",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439961916252200,
+      "attrName": "充电器",
+      "attrValues": "10V/4A；4.5V/5A；11V/6A；5V/2A；10V/2.25A；5V/4.5A；9V/2A",
+      "showDesc": 0
+    }
+  ],
+  "bounds": {
+    "buyBounds": 1,
+    "growBounds": 1
+  },
+  "brandId": 2,
+  "catalogId": 225,
+  "decript": [
+    "https://img30.360buyimg.com/sku/jfs/t1/179432/38/7133/83937/60b75f9aE9e1a7079/7d0a85a02ad7a261.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/124090/38/19502/64931/60b75f9aE08e18e6f/69df74b667c5372e.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/192257/22/6161/57938/60b75f9aE20e0dae3/8c98a21c76d65148.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/185228/35/7100/92047/60b75f9aE0bcdbf52/feac6e42af4eca15.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/189260/28/6273/123066/60b75f9bE4e3f764b/823747abcda3d491.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/184083/4/7141/130980/60b75f9bEfcb0e766/9105f8f699921e2e.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/189484/5/6237/80587/60b75f9aEbcb490fe/976d7fa21505fd76.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/190675/11/6174/105726/60b75f9bEd084a762/87d2875fc1034d4f.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/184346/19/7090/49840/60b75f9aEc398fa23/e310fdd5e3fd2acf.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/173270/36/12709/137582/60b75f9bEf812bcb8/0b2b946431810e9f.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/179481/33/7165/126870/60b75f9bEfd519542/5eb4e3d5c3c8c349.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/184682/7/7040/111924/60b75f9bE9ef62c43/2d185b17c8fd1f03.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/178535/9/7082/76036/60b75f9aE741d802a/ab0b17bdb4821a87.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/175680/38/12597/197878/60b75f9bEb4479aeb/8824873ba2854790.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/172459/23/12638/152267/60b75f9bEbd6d8f82/6bbf2c7cc222983d.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/187674/40/6107/130979/60b75f9bEbb562edf/3a5c394e0ad88afa.jpg",
+    "https://img30.360buyimg.com/sku/jfs/t1/125221/11/19430/92019/60b75f9bEe7aa0b59/266792dbb1d08cc3.jpg"
+  ],
+  "images": [
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/174875/33/27036/94000/621879f3Edb9937d0/0290c4b44cc35c7f.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/120069/25/19730/106646/6130a8f0E9a18a808/cc59f7c1ac8b6d93.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190300/12/21766/59119/6130a8f0E456f7016/381bcd4340525257.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/201748/13/4448/78818/6130a8f0E0e9a0b2d/55402ecf6dcf5987.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/38699/36/15861/54202/6130a8f1Ec81bb19c/7df08f37f9e01035.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190882/40/21178/123660/6130a8f1E24d02318/d7a92fd5d878ea44.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/205861/29/4317/65481/6130a8f1Eeda1ce07/6420082c40986672.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/194176/27/21270/118033/6130a8f1E3d8a40de/14dc646511a6857c.jpg"
+  ],
+  "publishStatus": 0,
+  "skus": [
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "釉白色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "釉白色",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 6000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/161275/13/9843/137365/60b59f8eEbade8c1d/3c778f0a77663104.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/194210/40/5882/113455/60b59f8eE17734549/d1f0f69783366c3e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/182528/7/6887/37598/60b59f8eE0f61ba84/10397bb3059ab4dd.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/189661/21/6058/41772/60b59f8eE84ff715d/6158cc4de0bec235.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/192074/14/5952/36319/60b59f8eE6530b09b/38b474cd090ec30d.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/191651/35/5879/30309/60b59f8eE1f2ad9a6/2ea0d42461080748.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/181916/39/6761/31065/60b59f8eEe8f5a8ce/7559785268c3958d.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price":  6099.00,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "华为 HUAWEI Mate 40 Pro 4G 全网通 麒麟9000旗舰芯片 8GB+128GB釉白色华为手机【搭载HarmonyOS 2】",
+      "skuSubtitle": "【华为Mate40Pro】麒麟9000旗舰芯片,搭载HarmonyOS2,超感知徕卡电影影像,欢迎抢购；华为手机热销爆款，限量抢购，",
+      "skuTitle": "华为 HUAWEI Mate 40 Pro 4G 全网通 麒麟9000旗舰芯片 8GB+128GB釉白色华为手机【搭载HarmonyOS 2】"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "釉白色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB  "
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "釉白色",
+        "套餐一",
+        "8GB+256GB "
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 6000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/161275/13/9843/137365/60b59f8eEbade8c1d/3c778f0a77663104.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/194210/40/5882/113455/60b59f8eE17734549/d1f0f69783366c3e.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/182528/7/6887/37598/60b59f8eE0f61ba84/10397bb3059ab4dd.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/189661/21/6058/41772/60b59f8eE84ff715d/6158cc4de0bec235.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/192074/14/5952/36319/60b59f8eE6530b09b/38b474cd090ec30d.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/191651/35/5879/30309/60b59f8eE1f2ad9a6/2ea0d42461080748.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/181916/39/6761/31065/60b59f8eEe8f5a8ce/7559785268c3958d.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 6599.00 ,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "华为 HUAWEI Mate 40 Pro 4G 全网通 麒麟9000旗舰芯片 8GB+256GB釉白色华为手机【搭载HarmonyOS 2】",
+      "skuSubtitle": "【华为Mate40Pro】麒麟9000旗舰芯片,搭载HarmonyOS2,超感知徕卡电影影像,欢迎抢购；华为手机热销爆款，限量抢购，",
+      "skuTitle": "华为 HUAWEI Mate 40 Pro 4G 全网通 麒麟9000旗舰芯片 8GB+256GB釉白色华为手机【搭载HarmonyOS 2】"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "秘银色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "秘银色",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 6000,
+      "images": [
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/125314/19/19567/155978/60b5ac9dEd519360f/683196a9a0477cc1.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/184946/20/6792/119922/60b5ac9dE6a9b8990/4cd06fac2aea9444.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/194448/15/5791/58846/60b5ac9dE9c1f5341/59ad4b5ba3756b55.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/180123/38/6837/72982/60b5ac9cE7e01eb98/ca15d3a9fa61f6be.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/195589/37/5796/59280/60b5ac9cEfc3b73a4/c2238a52f4b40a53.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/195589/37/5796/59280/60b5ac9cEfc3b73a4/c2238a52f4b40a53.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/187898/30/5931/34977/60b5ac9cEfcc1298a/2c0597746b8c0640.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 6099.00,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "华为 HUAWEI Mate 40 Pro 4G 全网通 麒麟9000旗舰芯片 8GB+128GB秘银色华为手机【搭载HarmonyOS 2】",
+      "skuSubtitle": "【华为Mate40Pro】麒麟9000旗舰芯片,搭载HarmonyOS2,超感知徕卡电影影像,欢迎抢购；华为手机热销爆款，限量抢购，",
+      "skuTitle": "华为 HUAWEI Mate 40 Pro 4G 全网通 麒麟9000旗舰芯片 8GB+128GB秘银色华为手机【搭载HarmonyOS 2】"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "秘银色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "秘银色",
+        "套餐一",
+        "8GB+256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 6000,
+      "images": [
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/125314/19/19567/155978/60b5ac9dEd519360f/683196a9a0477cc1.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/184946/20/6792/119922/60b5ac9dE6a9b8990/4cd06fac2aea9444.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/194448/15/5791/58846/60b5ac9dE9c1f5341/59ad4b5ba3756b55.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/180123/38/6837/72982/60b5ac9cE7e01eb98/ca15d3a9fa61f6be.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/195589/37/5796/59280/60b5ac9cEfc3b73a4/c2238a52f4b40a53.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/195589/37/5796/59280/60b5ac9cEfc3b73a4/c2238a52f4b40a53.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img14.360buyimg.com/n5/s54x54_jfs/t1/187898/30/5931/34977/60b5ac9cEfcc1298a/2c0597746b8c0640.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 6599.00,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "华为 HUAWEI Mate 40 Pro 4G 全网通 麒麟9000旗舰芯片 8GB+256GB秘银色华为手机【搭载HarmonyOS 2】",
+      "skuSubtitle": "【华为Mate40Pro】麒麟9000旗舰芯片,搭载HarmonyOS2,超感知徕卡电影影像,欢迎抢购；华为手机热销爆款，限量抢购，",
+      "skuTitle": "华为 HUAWEI Mate 40 Pro 4G 全网通 麒麟9000旗舰芯片 8GB+256GB秘银色华为手机【搭载HarmonyOS 2】"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "夏日胡杨"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "夏日胡杨",
+        "套餐一",
+        "8GB+128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 6000,
+      "images": [
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/6694/5/12220/183760/60b5ad86E24b545ac/360694029a4aa4f8.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/179947/18/6926/118895/60b5ad86E4b02f8b3/88c19bd645e6c796.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/127214/17/19199/83580/60b5ad86E7f03b691/3f80a7023ba6fdf8.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/179518/2/6918/114742/60b5ad86E92771133/68aafef250eef8eb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/126260/10/19747/82393/60b5ad86E725a861e/2e93f32460ee871b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/194605/8/4986/39448/60b5ad86E75ba8c81/7af0ed6d63edb42a.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/178966/20/6892/42110/60b5ad86E7b579477/3e0ee8b38ec43ae6.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 6099.00,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "华为 HUAWEI Mate 40 Pro 4G 全网通 麒麟9000旗舰芯片 8GB+128GB夏日胡杨华为手机【搭载HarmonyOS 2】",
+      "skuSubtitle": "【华为Mate40Pro】麒麟9000旗舰芯片,搭载HarmonyOS2,超感知徕卡电影影像,欢迎抢购；华为手机热销爆款，限量抢购，",
+      "skuTitle": "华为 HUAWEI Mate 40 Pro 4G 全网通 麒麟9000旗舰芯片 8GB+128GB夏日胡杨华为手机【搭载HarmonyOS 2】"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "夏日胡杨"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "8GB+256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "夏日胡杨",
+        "套餐一",
+        "8GB+256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 6000,
+      "images": [
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/6694/5/12220/183760/60b5ad86E24b545ac/360694029a4aa4f8.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/179947/18/6926/118895/60b5ad86E4b02f8b3/88c19bd645e6c796.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/127214/17/19199/83580/60b5ad86E7f03b691/3f80a7023ba6fdf8.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/179518/2/6918/114742/60b5ad86E92771133/68aafef250eef8eb.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/126260/10/19747/82393/60b5ad86E725a861e/2e93f32460ee871b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/194605/8/4986/39448/60b5ad86E75ba8c81/7af0ed6d63edb42a.jpg"
+        },
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/178966/20/6892/42110/60b5ad86E7b579477/3e0ee8b38ec43ae6.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 6599.00,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "华为 HUAWEI Mate 40 Pro 4G 全网通 麒麟9000旗舰芯片 8GB+256GB夏日胡杨华为手机【搭载HarmonyOS 2】",
+      "skuSubtitle": "【华为Mate40Pro】麒麟9000旗舰芯片,搭载HarmonyOS2,超感知徕卡电影影像,欢迎抢购；华为手机热销爆款，限量抢购，",
+      "skuTitle": "华为 HUAWEI Mate 40 Pro 4G 全网通 麒麟9000旗舰芯片 8GB+256GB夏日胡杨华为手机【搭载HarmonyOS 2】"
+    }
+  ],
+  "spuDescription": "华为 HUAWEI Mate 40 Pro 4G 全网通 麒麟9000旗舰芯片",
+  "spuName": "华为 HUAWEI Mate 40 Pro 4G 全网通 麒麟9000旗舰芯片",
+  "weight": 0.6
+}

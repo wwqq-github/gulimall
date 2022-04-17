@@ -1,0 +1,623 @@
+{
+  "baseAttrs": [
+    {
+      "attrId": 1497084806096195600,
+      "attrName": "入网型号",
+      "attrValues": "A2644",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085691807371300,
+      "attrName": "品牌",
+      "attrValues": "Apple",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497085864323289000,
+      "attrName": "产品名称",
+      "attrValues": "AppleiPhone 13 Pro Max",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086002500440000,
+      "attrName": "上市时间",
+      "attrValues": "2021年9月",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497413969399218200,
+      "attrName": "操作系统",
+      "attrValues": "iOS（苹果）",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497086346622111700,
+      "attrName": "机身宽度",
+      "attrValues": "78.1mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086440482246700,
+      "attrName": "机身重量",
+      "attrValues": "238g",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086601900036000,
+      "attrName": "机身长度",
+      "attrValues": "160.8mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086688277532700,
+      "attrName": "机身厚度",
+      "attrValues": "7.65mm",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497086838991458300,
+      "attrName": "机身材质",
+      "attrValues": "以官网信息为准",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497087714065879000,
+      "attrName": "CPU品牌",
+      "attrValues": "苹果(iPhone)",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497087872560238600,
+      "attrName": "cpu型号",
+      "attrValues": "A15仿生芯片",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088389361406000,
+      "attrName": "屏幕材质类型",
+      "attrValues": "OLED",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088562837819400,
+      "attrName": "主屏幕尺寸",
+      "attrValues": "6.7英寸",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497088852316098600,
+      "attrName": "网络支持",
+      "attrValues": "移动5G；联通5G；电信5G",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089008943992800,
+      "attrName": "最大支持SIM卡数量",
+      "attrValues": "2",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497089256676364300,
+      "attrName": "NFC/NFC模式",
+      "attrValues": "支持",
+      "showDesc": 1
+    },
+    {
+      "attrId": 1497089603264286700,
+      "attrName": "充电接口类型",
+      "attrValues": "lightning",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439413297094700,
+      "attrName": "电池容量",
+      "attrValues": "4400mAh",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439564166209500,
+      "attrName": "电池可拆卸",
+      "attrValues": "不可拆卸",
+      "showDesc": 0
+    },
+    {
+      "attrId": 1497439961916252200,
+      "attrName": "充电器",
+      "attrValues": "其他",
+      "showDesc": 0
+    }
+  ],
+  "bounds": {
+    "buyBounds": 1,
+    "growBounds": 1
+  },
+  "brandId": 1498613392179412994,
+  "catalogId": 225,
+  "decript": [
+    "https://img10.360buyimg.com/cms/jfs/t1/135244/36/18679/231850/60dab546E9015c6db/e9ebebe81dc5cb5d.jpg",
+    "https://img11.360buyimg.com/cms/jfs/t1/99174/12/25161/1368582/6227cbbcE566597f4/8102e940837cd3de.jpg",
+    "https://img11.360buyimg.com/cms/jfs/t1/211039/29/19212/922279/6227cbbcEe715133f/c08e6af76c735530.jpg"
+  ],
+  "images": [
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/174875/33/27036/94000/621879f3Edb9937d0/0290c4b44cc35c7f.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/120069/25/19730/106646/6130a8f0E9a18a808/cc59f7c1ac8b6d93.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190300/12/21766/59119/6130a8f0E456f7016/381bcd4340525257.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/201748/13/4448/78818/6130a8f0E0e9a0b2d/55402ecf6dcf5987.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/38699/36/15861/54202/6130a8f1Ec81bb19c/7df08f37f9e01035.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/190882/40/21178/123660/6130a8f1E24d02318/d7a92fd5d878ea44.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/205861/29/4317/65481/6130a8f1Eeda1ce07/6420082c40986672.jpg",
+    "https://img14.360buyimg.com/n5/s54x54_jfs/t1/194176/27/21270/118033/6130a8f1E3d8a40de/14dc646511a6857c.jpg"
+  ],
+  "publishStatus": 0,
+  "skus": [
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "远峰蓝色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "远峰蓝色",
+        "套餐一",
+        "128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 6000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/170960/24/23883/191395/614be471E20ff4504/f2997ec23199a45a.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/63261/40/17434/104250/61411d4bEcf188d5b/193bdf4207a58cc1.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/63434/17/17357/240162/61411d4dEc5daf41c/60cd4ec1c245ab58.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/140202/9/21313/97577/61411d4fE5068064d/c62a98377329d312.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/127850/16/23767/114249/6228858fEad46c5c7/d6b1a3e72c81e8b7.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/104044/6/24401/235793/6228858fE38d03783/f99d30a61235c519.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/136076/21/22623/207773/6228858fE90ecb5a7/fd99b8020f172ef1.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/211445/27/19160/144834/6228858fE0d2667e5/2bb7f2a76dba1345.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/195738/7/21685/79689/6228858fE04489d41/b092ee20421d145f.jpg"}
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price":  8999.00,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "Apple iPhone 13 Pro Max (A2644) 128GB 远峰蓝色 支持移动联通电信5G 双卡双待手机",
+      "skuSubtitle": "新款开启预售，18号早8点开始陆续发货，店铺付费会员享至高779元以旧换新补贴！",
+      "skuTitle": "Apple iPhone 13 Pro Max (A2644) 128GB 远峰蓝色 支持移动联通电信5G 双卡双待手机"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "远峰蓝色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "远峰蓝色",
+        "套餐一",
+        "256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 6000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/170960/24/23883/191395/614be471E20ff4504/f2997ec23199a45a.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/63261/40/17434/104250/61411d4bEcf188d5b/193bdf4207a58cc1.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/63434/17/17357/240162/61411d4dEc5daf41c/60cd4ec1c245ab58.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/140202/9/21313/97577/61411d4fE5068064d/c62a98377329d312.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/127850/16/23767/114249/6228858fEad46c5c7/d6b1a3e72c81e8b7.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/104044/6/24401/235793/6228858fE38d03783/f99d30a61235c519.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/136076/21/22623/207773/6228858fE90ecb5a7/fd99b8020f172ef1.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/211445/27/19160/144834/6228858fE0d2667e5/2bb7f2a76dba1345.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img13.360buyimg.com/n5/s54x54_jfs/t1/195738/7/21685/79689/6228858fE04489d41/b092ee20421d145f.jpg"}
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price":  9799.00,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "Apple iPhone 13 Pro Max (A2644) 256GB 远峰蓝色 支持移动联通电信5G 双卡双待手机",
+      "skuSubtitle": "新款开启预售，18号早8点开始陆续发货，店铺付费会员享至高779元以旧换新补贴！",
+      "skuTitle": "Apple iPhone 13 Pro Max (A2644) 256GB 远峰蓝色 支持移动联通电信5G 双卡双待手机"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "石墨色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "石墨色",
+        "套餐一",
+        "128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 6000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/156222/30/21147/178929/614bda2fE9274f35b/393af336efd800b7.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/208602/39/600/35424/61411d46E4c37529e/b517ef3f156e511c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/211279/28/597/71106/61411d4aE75fc4e55/1ef4d810cd0689ae.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/204230/38/6734/33812/61411d4dEc1ce8c76/f78c2ca300e11dcd.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/127124/40/25335/114249/62288610E227be251/b6d26fd157723178.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/133547/23/22479/231419/62288611E517c3f0d/11f3d3b1cdf5d3e1.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/215992/9/14258/199579/62288611E717b7ce3/f947835bf891c02c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/130693/6/24391/144834/62288610E371f1f89/1cfcf883621232b8.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/130810/20/23836/75737/62288610Ecd9dbd9b/18efad6d963ec3da.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 8999.00,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "Apple iPhone 13 Pro Max (A2644) 128GB 石墨色 支持移动联通电信5G 双卡双待手机",
+      "skuSubtitle": "新款开启预售，18号早8点开始陆续发货，店铺付费会员享至高779元以旧换新补贴！",
+      "skuTitle": "Apple iPhone 13 Pro Max (A2644) 128GB 石墨色 支持移动联通电信5G 双卡双待手机"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "石墨色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "石墨色",
+        "套餐一",
+        "256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 6000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/156222/30/21147/178929/614bda2fE9274f35b/393af336efd800b7.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/208602/39/600/35424/61411d46E4c37529e/b517ef3f156e511c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/211279/28/597/71106/61411d4aE75fc4e55/1ef4d810cd0689ae.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/204230/38/6734/33812/61411d4dEc1ce8c76/f78c2ca300e11dcd.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/127124/40/25335/114249/62288610E227be251/b6d26fd157723178.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/133547/23/22479/231419/62288611E517c3f0d/11f3d3b1cdf5d3e1.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/215992/9/14258/199579/62288611E717b7ce3/f947835bf891c02c.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/130693/6/24391/144834/62288610E371f1f89/1cfcf883621232b8.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img10.360buyimg.com/n5/s54x54_jfs/t1/130810/20/23836/75737/62288610Ecd9dbd9b/18efad6d963ec3da.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 9799.00,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "Apple iPhone 13 Pro Max (A2644) 256GB 石墨色 支持移动联通电信5G 双卡双待手机",
+      "skuSubtitle": "新款开启预售，18号早8点开始陆续发货，店铺付费会员享至高779元以旧换新补贴！",
+      "skuTitle": "Apple iPhone 13 Pro Max (A2644) 256GB 石墨色 支持移动联通电信5G 双卡双待手机"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "苍岭绿色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "128GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "苍岭绿色",
+        "套餐一",
+        "128GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 6000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img12.360buyimg.com/n5/jfs/t1/100108/18/24763/35565/6227cde3E763ca4aa/f0c4d8142f0ca6f3.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/jfs/t1/117884/19/21395/35373/6227cde6Ebb9eb72f/108248c444bfca9b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/jfs/t1/221598/33/12509/79076/6227cde9E651c2b17/357a44b7c22252aa.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/jfs/t1/215631/8/14393/33563/6227cdecE21af2576/58a2dc278e9d0c64.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/jfs/t1/118645/6/20628/48555/6227cdf0Ebdf8e6ab/c340275b0e16b676.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/jfs/t1/132709/36/25544/86296/6227cdf3E09e44529/6a9206ff078e00e6.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/jfs/t1/123590/33/23812/84665/6227cdf5Eaee41f22/0f891d8180c06c80.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/jfs/t1/112615/4/22403/56700/6227cdf9E0cd4f18c/19efef4e270d1840.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/jfs/t1/128900/6/24581/33822/6227cdfbE84edc803/ee9bdcb5656b8108.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 8999.00 ,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "Apple iPhone 13 Pro Max (A2644) 128GB 苍岭绿色 支持移动联通电信5G 双卡双待手机",
+      "skuSubtitle": "新款开启预售，18号早8点开始陆续发货，店铺付费会员享至高779元以旧换新补贴！",
+      "skuTitle": "Apple iPhone 13 Pro Max (A2644) 128GB 苍岭绿色 支持移动联通电信5G 双卡双待手机"
+    },
+    {
+      "attr": [
+        {
+          "attrId": 4,
+          "attrName": "机身颜色",
+          "attrValue": "苍岭绿色"
+        },
+        {
+          "attrId": 6,
+          "attrName": "套餐",
+          "attrValue": "套餐一"
+        },
+        {
+          "attrId": 11,
+          "attrName": "存储容量",
+          "attrValue": "256GB"
+        }
+      ],
+      "countStatus": 0,
+      "descar": [
+        "苍岭绿色",
+        "套餐一",
+        "256GB"
+      ],
+      "discount": 0.9,
+      "fullCount": 2,
+      "fullPrice": 6000,
+      "images": [
+        {
+          "defaultImg": 1,
+          "imgUrl": "https://img12.360buyimg.com/n5/jfs/t1/100108/18/24763/35565/6227cde3E763ca4aa/f0c4d8142f0ca6f3.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/jfs/t1/117884/19/21395/35373/6227cde6Ebb9eb72f/108248c444bfca9b.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/jfs/t1/221598/33/12509/79076/6227cde9E651c2b17/357a44b7c22252aa.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/jfs/t1/215631/8/14393/33563/6227cdecE21af2576/58a2dc278e9d0c64.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/jfs/t1/118645/6/20628/48555/6227cdf0Ebdf8e6ab/c340275b0e16b676.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/jfs/t1/132709/36/25544/86296/6227cdf3E09e44529/6a9206ff078e00e6.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/jfs/t1/123590/33/23812/84665/6227cdf5Eaee41f22/0f891d8180c06c80.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/jfs/t1/112615/4/22403/56700/6227cdf9E0cd4f18c/19efef4e270d1840.jpg"
+        },
+        {
+          "defaultImg": 0,
+          "imgUrl": "https://img12.360buyimg.com/n5/jfs/t1/128900/6/24581/33822/6227cdfbE84edc803/ee9bdcb5656b8108.jpg"
+        }
+      ],
+      "memberPrice": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "price": 9799.00 ,
+      "priceStatus": 0,
+      "reducePrice": 600,
+      "skuName": "Apple iPhone 13 Pro Max (A2644) 256GB 苍岭绿色 支持移动联通电信5G 双卡双待手机",
+      "skuSubtitle": "新款开启预售，18号早8点开始陆续发货，店铺付费会员享至高779元以旧换新补贴！",
+      "skuTitle": "Apple iPhone 13 Pro Max (A2644) 256GB 苍岭绿色 支持移动联通电信5G 双卡双待手机"
+    }
+  ],
+  "spuDescription": "Apple iPhone 13 Pro Max (A2644) 支持移动联通电信5G 双卡双待手机",
+  "spuName": "Apple iPhone 13 Pro Max (A2644) 支持移动联通电信5G 双卡双待手机",
+  "weight": 0.6
+}
